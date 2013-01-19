@@ -1,4 +1,4 @@
-module AokScraper
+module MeetupTracker
   class Group
     def initialize(name, url)
       @name = name

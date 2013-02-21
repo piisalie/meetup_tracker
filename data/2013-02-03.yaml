@@ -1,0 +1,3711 @@
+---
+- !ruby/object:MeetupTracker::Group
+  name: Los Angeles redditors
+  url: http://www.meetup.com/LA-Redditors/
+  membership:
+    '2013-02-03': '4066'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Hikers of Southern California
+  url: http://www.meetup.com/hiking-406/
+  membership:
+    '2013-02-03': '2136'
+- !ruby/object:MeetupTracker::Group
+  name: Houston Atheists
+  url: http://www.meetup.com/Houston-Atheists/
+  membership:
+    '2013-02-03': '2064'
+- !ruby/object:MeetupTracker::Group
+  name: Bay Area Atheists/Agnostics/Humanists/Freethinkers/Skeptics
+  url: http://www.meetup.com/Bay-Area-Atheists-Agnostics-Humanists-Freethinkers-Skeptics/
+  membership:
+    '2013-02-03': '1596'
+- !ruby/object:MeetupTracker::Group
+  name: The Phoenix Atheists Meetup Group
+  url: http://www.meetup.com/phoenix-atheists/
+  membership:
+    '2013-02-03': '1580'
+- !ruby/object:MeetupTracker::Group
+  name: Central London Humanists
+  url: http://www.meetup.com/Central-London-Humanists/
+  membership:
+    '2013-02-03': '1442'
+- !ruby/object:MeetupTracker::Group
+  name: Seattle Atheists/Agnostics Meetup Group
+  url: http://www.meetup.com/seattle-atheists/
+  membership:
+    '2013-02-03': '1346'
+- !ruby/object:MeetupTracker::Group
+  name: Minnesota Atheists Meetup Group
+  url: http://www.meetup.com/minnesota-atheists/
+  membership:
+    '2013-02-03': '1333'
+- !ruby/object:MeetupTracker::Group
+  name: The Atlanta Atheists Meetup Group
+  url: http://www.meetup.com/Atlanta-Atheists/
+  membership:
+    '2013-02-03': '1282'
+- !ruby/object:MeetupTracker::Group
+  name: Oklahoma Atheists
+  url: http://meetup.oklahomaatheists.com/
+  membership:
+    '2013-02-03': '1279'
+- !ruby/object:MeetupTracker::Group
+  name: The San Diego New Atheists and Agnostics
+  url: http://www.meetup.com/san-diego-atheists-agnostics/
+  membership:
+    '2013-02-03': '1238'
+- !ruby/object:MeetupTracker::Group
+  name: The Denver Atheists Meetup Group
+  url: http://www.meetup.com/denver-atheists/
+  membership:
+    '2013-02-03': '1185'
+- !ruby/object:MeetupTracker::Group
+  name: New York City Atheists Meetings
+  url: http://www.meetup.com/atheists-24/
+  membership:
+    '2013-02-03': '1147'
+- !ruby/object:MeetupTracker::Group
+  name: Triangle Atheist Meetup
+  url: http://www.meetup.com/triangleatheistmeetup/
+  membership:
+    '2013-02-03': '1126'
+- !ruby/object:MeetupTracker::Group
+  name: Sacramento Freethinkers Atheists & Nonbelievers (FAN)
+  url: http://www.meetup.com/SacFAN/
+  membership:
+    '2013-02-03': '1122'
+- !ruby/object:MeetupTracker::Group
+  name: Fellowship of Freethought Dallas
+  url: http://meetup.fofdallas.org/
+  membership:
+    '2013-02-03': '1117'
+- !ruby/object:MeetupTracker::Group
+  name: Inland Empire Atheists, Agnostics & Skeptics Meetup Group
+  url: http://www.meetup.com/InlandEmpireAtheists/
+  membership:
+    '2013-02-03': '1048'
+- !ruby/object:MeetupTracker::Group
+  name: Las Vegas Atheists
+  url: http://www.lasvegasatheists.org/
+  membership:
+    '2013-02-03': '987'
+- !ruby/object:MeetupTracker::Group
+  name: Sydney Atheists
+  url: http://www.meetup.com/sydneyatheists/
+  membership:
+    '2013-02-03': '980'
+- !ruby/object:MeetupTracker::Group
+  name: The Chicago Freethinkers Meetup Group
+  url: http://www.meetup.com/chicago-freethought/
+  membership:
+    '2013-02-03': '919'
+- !ruby/object:MeetupTracker::Group
+  name: Washington, DC Atheists Meetup Group
+  url: http://www.meetup.com/WashingtonDC-Atheists/
+  membership:
+    '2013-02-03': '916'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry-New York City
+  url: http://cfinewyork.net/
+  membership:
+    '2013-02-03': '863'
+- !ruby/object:MeetupTracker::Group
+  name: The Dallas-Plano Atheists Meetup Group
+  url: http://www.meetup.com/Dallas-Plano-Atheists/
+  membership:
+    '2013-02-03': '862'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Life
+  url: http://www.meetup.com/SecularLife/
+  membership:
+    '2013-02-03': '835'
+- !ruby/object:MeetupTracker::Group
+  name: The Saint Louis Atheists Meetup Group
+  url: http://www.meetup.com/atheists-463/
+  membership:
+    '2013-02-03': '801'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry - Austin
+  url: http://www.meetup.com/cfiaustin/
+  membership:
+    '2013-02-03': '792'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Tulsa
+  url: http://www.meetup.com/ACT-OK/
+  membership:
+    '2013-02-03': '791'
+- !ruby/object:MeetupTracker::Group
+  name: Richies List
+  url: http://www.meetup.com/RichiesList/
+  membership:
+    '2013-02-03': '790'
+- !ruby/object:MeetupTracker::Group
+  name: The Cleveland Freethinkers
+  url: http://www.meetup.com/clevelandfreethinkers/
+  membership:
+    '2013-02-03': '777'
+- !ruby/object:MeetupTracker::Group
+  name: Generation Atheist
+  url: http://www.meetup.com/generation-atheist/
+  membership:
+    '2013-02-03': '771'
+- !ruby/object:MeetupTracker::Group
+  name: The Cincinnati Atheists Meetup Group
+  url: http://www.meetup.com/cincinnatiatheists/
+  membership:
+    '2013-02-03': '769'
+- !ruby/object:MeetupTracker::Group
+  name: Nashville Atheists
+  url: http://www.meetup.com/atheists-455/
+  membership:
+    '2013-02-03': '766'
+- !ruby/object:MeetupTracker::Group
+  name: Louisville Atheists and Freethinkers
+  url: http://www.meetup.com/atheists-175/
+  membership:
+    '2013-02-03': '765'
+- !ruby/object:MeetupTracker::Group
+  name: Skeptical Society of St. Louis
+  url: http://www.meetup.com/skepticalstl/
+  membership:
+    '2013-02-03': '760'
+- !ruby/object:MeetupTracker::Group
+  name: The NYC Continental Philosophy Reading Meetup Group
+  url: http://www.meetup.com/philosophy-202/
+  membership:
+    '2013-02-03': '759'
+- !ruby/object:MeetupTracker::Group
+  name: The San Antonio Atheists Group
+  url: http://www.sa-atheists.org/
+  membership:
+    '2013-02-03': '737'
+- !ruby/object:MeetupTracker::Group
+  name: The London Atheists Meetup Group
+  url: http://www.meetup.com/London-Atheists/
+  membership:
+    '2013-02-03': '733'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Portland Meetup Group
+  url: http://www.meetup.com/cfi-portland/
+  membership:
+    '2013-02-03': '723'
+- !ruby/object:MeetupTracker::Group
+  name: Philadelphia Atheists Meetup
+  url: http://www.meetup.com/atheists-215/
+  membership:
+    '2013-02-03': '720'
+- !ruby/object:MeetupTracker::Group
+  name: The DC Atheists Meetup Group
+  url: http://www.meetup.com/DC-Atheists/
+  membership:
+    '2013-02-03': '710'
+- !ruby/object:MeetupTracker::Group
+  name: The Humanists of Houston Meetup Group
+  url: http://www.meetup.com/humanism-177/
+  membership:
+    '2013-02-03': '705'
+- !ruby/object:MeetupTracker::Group
+  name: Toronto Atheists and Friends by CFI Ontario (Toronto)
+  url: http://www.meetup.com/The-Toronto-Atheists-and-Friends-Meetup-Group/
+  membership:
+    '2013-02-03': '674'
+- !ruby/object:MeetupTracker::Group
+  name: Backyard Skeptics Meetup
+  url: http://www.meetup.com/Backyard-Skeptics/
+  membership:
+    '2013-02-03': '661'
+- !ruby/object:MeetupTracker::Group
+  name: The Godless Liberal Social Society of Los Angeles
+  url: http://www.meetup.com/GodlessLiberals/
+  membership:
+    '2013-02-03': '659'
+- !ruby/object:MeetupTracker::Group
+  name: Brisbane Atheists
+  url: http://www.meetup.com/BrisbaneAtheists/
+  membership:
+    '2013-02-03': '645'
+- !ruby/object:MeetupTracker::Group
+  name: Pittsburgh Secular Freethinkers
+  url: http://www.meetup.com/Pittsburgh-Secular-Freethinkers/
+  membership:
+    '2013-02-03': '644'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Utah-Zion Sect
+  url: http://www.meetup.com/aofuslc/
+  membership:
+    '2013-02-03': '637'
+- !ruby/object:MeetupTracker::Group
+  name: Melbourne Atheists Meetup Group
+  url: http://www.meetup.com/Melbourne-Atheists/
+  membership:
+    '2013-02-03': '637'
+- !ruby/object:MeetupTracker::Group
+  name: Chicago's Secular Singles
+  url: http://www.meetup.com/ChicagoSecularSingles/
+  membership:
+    '2013-02-03': '635'
+- !ruby/object:MeetupTracker::Group
+  name: Metroplex Atheists
+  url: http://www.meetup.com/Metroplex-Atheists/
+  membership:
+    '2013-02-03': '626'
+- !ruby/object:MeetupTracker::Group
+  name: The Austin Atheists Meetup Group
+  url: http://www.meetup.com/atheists-8/
+  membership:
+    '2013-02-03': '612'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists United
+  url: http://www.meetup.com/atheists-united/
+  membership:
+    '2013-02-03': '611'
+- !ruby/object:MeetupTracker::Group
+  name: Iowa Atheists and Freethinkers
+  url: http://www.meetup.com/Iowa-Atheists-and-Freethinkers/
+  membership:
+    '2013-02-03': '606'
+- !ruby/object:MeetupTracker::Group
+  name: The Flying Spaghetti Monster lands for a pint.
+  url: http://www.meetup.com/atheists-588/
+  membership:
+    '2013-02-03': '602'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry–DC (CFI–DC)
+  url: http://www.meetup.com/CFI-DC/
+  membership:
+    '2013-02-03': '601'
+- !ruby/object:MeetupTracker::Group
+  name: Tucson Atheists
+  url: http://www.meetup.com/Tucson-Atheists/
+  membership:
+    '2013-02-03': '588'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Society of Greater Phoenix (HSGP)
+  url: http://www.meetup.com/Humanist-Society-of-Greater-Phoenix/
+  membership:
+    '2013-02-03': '576'
+- !ruby/object:MeetupTracker::Group
+  name: The Detroit Atheists Meetup Group
+  url: http://www.meetup.com/Detroit-Atheists/
+  membership:
+    '2013-02-03': '571'
+- !ruby/object:MeetupTracker::Group
+  name: Omnipresent Atheists
+  url: http://www.meetup.com/omnipresentatheists/
+  membership:
+    '2013-02-03': '568'
+- !ruby/object:MeetupTracker::Group
+  name: The Chicago Free Inquiry Meetup Group
+  url: http://www.meetup.com/cfichicago/
+  membership:
+    '2013-02-03': '565'
+- !ruby/object:MeetupTracker::Group
+  name: The Atheist & Freethinker Meetup Group of Austin
+  url: http://www.meetup.com/austin-atheists/
+  membership:
+    '2013-02-03': '542'
+- !ruby/object:MeetupTracker::Group
+  name: The Jacksonville Atheist, Agnostic, Secular Meetup Group
+  url: http://www.jaxatheists.com/
+  membership:
+    '2013-02-03': '535'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Society
+  url: http://www.meetup.com/Freethought-Society-Meetup/
+  membership:
+    '2013-02-03': '534'
+- !ruby/object:MeetupTracker::Group
+  name: Las Vegas Democrats - Meetup Group
+  url: http://www.meetup.com/las-vegas-democrats/
+  membership:
+    '2013-02-03': '529'
+- !ruby/object:MeetupTracker::Group
+  name: The Birmingham Atheists Meetup Group
+  url: http://www.meetup.com/atheists-132/
+  membership:
+    '2013-02-03': '526'
+- !ruby/object:MeetupTracker::Group
+  name: South Bay Freethinkers
+  url: http://www.meetup.com/southbayfreethinkers/
+  membership:
+    '2013-02-03': '522'
+- !ruby/object:MeetupTracker::Group
+  name: Omaha Atheists Meetup Group
+  url: http://www.meetup.com/omahaatheists/
+  membership:
+    '2013-02-03': '505'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists Etcetera PDX
+  url: http://www.meetup.com/atheistsetcpdx/
+  membership:
+    '2013-02-03': '495'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'Humanism San Diego: Humanist Association of San Diego Meetup'
+  url: http://www.meetup.com/humanism-184/
+  membership:
+    '2013-02-03': '495'
+- !ruby/object:MeetupTracker::Group
+  name: New York Society for Ethical Culture
+  url: http://www.meetup.com/Ethical-Culture-NYC/
+  membership:
+    '2013-02-03': '495'
+- !ruby/object:MeetupTracker::Group
+  name: FLorida Atheists and Secular Humanists, Ft Lauderdale
+  url: http://www.meetup.com/FLASH-Broward/
+  membership:
+    '2013-02-03': '487'
+- !ruby/object:MeetupTracker::Group
+  name: Hawaii Secular Society
+  url: http://www.meetup.com/Secular-Hawaii/
+  membership:
+    '2013-02-03': '484'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Washington - Secular Seattle Meetup Group
+  url: http://www.meetup.com/SecularSeattle/
+  membership:
+    '2013-02-03': '481'
+- !ruby/object:MeetupTracker::Group
+  name: Triangle Freethinkers
+  url: http://www.meetup.com/agnostic-144/
+  membership:
+    '2013-02-03': '472'
+- !ruby/object:MeetupTracker::Group
+  name: The Spiritual & Metaphysics discussion group
+  url: http://www.meetup.com/The-Spiritual-Metaphysics-discussion-group/
+  membership:
+    '2013-02-03': '470'
+- !ruby/object:MeetupTracker::Group
+  name: Arkansas Society of Freethinkers
+  url: http://www.meetup.com/ARfreethinkers/
+  membership:
+    '2013-02-03': '469'
+- !ruby/object:MeetupTracker::Group
+  name: Steel City Skeptics
+  url: http://www.meetup.com/Steel-City-Skeptics/
+  membership:
+    '2013-02-03': '469'
+- !ruby/object:MeetupTracker::Group
+  name: Dallas Atheist Book Club
+  url: http://www.meetup.com/Dallas-Atheist-Book-Club/
+  membership:
+    '2013-02-03': '466'
+- !ruby/object:MeetupTracker::Group
+  name: North Alabama Freethought Association
+  url: http://www.meetup.com/thenafa/
+  membership:
+    '2013-02-03': '461'
+- !ruby/object:MeetupTracker::Group
+  name: The Calgary Atheists & Secular Humanists Meetup
+  url: http://www.meetup.com/atheists-676/
+  membership:
+    '2013-02-03': '460'
+- !ruby/object:MeetupTracker::Group
+  name: Memphis Atheists
+  url: http://www.meetup.com/atheists-591/
+  membership:
+    '2013-02-03': '454'
+- !ruby/object:MeetupTracker::Group
+  name: Wichita Atheists
+  url: http://www.wichitaatheists.com/
+  membership:
+    '2013-02-03': '454'
+- !ruby/object:MeetupTracker::Group
+  name: Sydney Philosophy Circle
+  url: http://www.meetup.com/SydneyPhilosophyCircle/
+  membership:
+    '2013-02-03': '451'
+- !ruby/object:MeetupTracker::Group
+  name: The Baltimore Atheists Meetup Group
+  url: http://www.meetup.com/Baltimore-Atheist/
+  membership:
+    '2013-02-03': '450'
+- !ruby/object:MeetupTracker::Group
+  name: Centre For Inquiry - Ottawa
+  url: http://events.cfiottawa.com/
+  membership:
+    '2013-02-03': '447'
+- !ruby/object:MeetupTracker::Group
+  name: FAAST
+  url: http://www.meetup.com/FAASTriangle/
+  membership:
+    '2013-02-03': '439'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Colorado
+  url: http://www.meetup.com/humanism-160/
+  membership:
+    '2013-02-03': '438'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Fellowship of San Diego
+  url: http://www.meetup.com/humanistfellowship/
+  membership:
+    '2013-02-03': '435'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Greater Portland Meetup
+  url: http://www.meetup.com/humanists-of-greater-portland/
+  membership:
+    '2013-02-03': '428'
+- !ruby/object:MeetupTracker::Group
+  name: Perth Atheists Meetup
+  url: http://www.meetup.com/PerthAtheists/
+  membership:
+    '2013-02-03': '426'
+- !ruby/object:MeetupTracker::Group
+  name: Gulf Coast Freethinkers
+  url: http://www.meetup.com/Gulf-Coast-Freethinkers/
+  membership:
+    '2013-02-03': '421'
+- !ruby/object:MeetupTracker::Group
+  name: Springfield Freethinkers
+  url: http://www.meetup.com/SpringfieldFreethinkers/
+  membership:
+    '2013-02-03': '421'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Society of Knoxville (ASK)
+  url: http://www.meetup.com/KnoxvilleAtheists/
+  membership:
+    '2013-02-03': '415'
+- !ruby/object:MeetupTracker::Group
+  name: Tidewater Atheists Group (TAG)
+  url: http://www.meetup.com/Tidewater-Atheists-Group/
+  membership:
+    '2013-02-03': '415'
+- !ruby/object:MeetupTracker::Group
+  name: London Feminist Freethinkers
+  url: http://www.meetup.com/London-Feminist-Freethinkers/
+  membership:
+    '2013-02-03': '410'
+- !ruby/object:MeetupTracker::Group
+  name: Tacoma Atheists Meetup Group
+  url: http://www.meetup.com/tacomaatheists/
+  membership:
+    '2013-02-03': '410'
+- !ruby/object:MeetupTracker::Group
+  name: Twin Cities Atheists
+  url: http://www.meetup.com/Twin-Cities-Atheists/
+  membership:
+    '2013-02-03': '405'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Society of the Midlands (FSM)
+  url: http://www.meetup.com/atheists-64/
+  membership:
+    '2013-02-03': '402'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Secular Humanists of East Portland
+  url: http://www.meetup.com/cfi-shep/
+  membership:
+    '2013-02-03': '397'
+- !ruby/object:MeetupTracker::Group
+  name: FreeThinkers of Fort Worth
+  url: http://www.meetup.com/FWFreethinkers/
+  membership:
+    '2013-02-03': '395'
+- !ruby/object:MeetupTracker::Group
+  name: Kansas City FreeThinkers Social Group
+  url: http://www.meetup.com/KC-Freethinking-Social/
+  membership:
+    '2013-02-03': '391'
+- !ruby/object:MeetupTracker::Group
+  name: Boulder Atheists
+  url: http://www.meetup.com/Boulder-Atheists/
+  membership:
+    '2013-02-03': '390'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists and Freethinkers of Cape Fear
+  url: http://www.meetup.com/humanism-182/
+  membership:
+    '2013-02-03': '389'
+- !ruby/object:MeetupTracker::Group
+  name: Reno Freethinkers
+  url: http://www.meetup.com/Reno-Freethinkers/
+  membership:
+    '2013-02-03': '369'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Beaverton Atheists Meetup
+  url: http://www.meetup.com/cfi-bam/
+  membership:
+    '2013-02-03': '362'
+- !ruby/object:MeetupTracker::Group
+  name: The Norman Naturalism Meetup
+  url: http://www.normannaturalism.org/
+  membership:
+    '2013-02-03': '362'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Dayton
+  url: http://www.meetup.com/freethoughtdayton/
+  membership:
+    '2013-02-03': '360'
+- !ruby/object:MeetupTracker::Group
+  name: The North Suburban Chicago Atheists Meetup Group
+  url: http://www.meetup.com/atheists-198/
+  membership:
+    '2013-02-03': '359'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists Etcetera
+  url: http://www.meetup.com/atheistsetc/
+  membership:
+    '2013-02-03': '357'
+- !ruby/object:MeetupTracker::Group
+  name: CFI–DC Drinking Skeptically
+  url: http://www.meetup.com/CFI-DC-Drinking-Skeptically/
+  membership:
+    '2013-02-03': '357'
+- !ruby/object:MeetupTracker::Group
+  name: Rationalist Society of Saint Louis
+  url: http://www.meetup.com/Rationalist-Society-of-Saint-Louis/
+  membership:
+    '2013-02-03': '353'
+- !ruby/object:MeetupTracker::Group
+  name: The Humanist Community of Central Ohio
+  url: http://www.meetup.com/HumanistOhio/
+  membership:
+    '2013-02-03': '352'
+- !ruby/object:MeetupTracker::Group
+  name: Darwin's Tavern
+  url: http://www.meetup.com/DarwinsTavern/
+  membership:
+    '2013-02-03': '348'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Association of Ottawa MeetUp Group
+  url: http://www.meetup.com/ottawa-humanist/
+  membership:
+    '2013-02-03': '347'
+- !ruby/object:MeetupTracker::Group
+  name: Miami Secular Humanism Meetup
+  url: http://www.meetup.com/secularhumanism-1/
+  membership:
+    '2013-02-03': '343'
+- !ruby/object:MeetupTracker::Group
+  name: North Texas Church of Freethought
+  url: http://www.meetup.com/church-of-freethought/
+  membership:
+    '2013-02-03': '340'
+- !ruby/object:MeetupTracker::Group
+  name: The Cleveland Skeptics
+  url: http://www.meetup.com/clevelandskeptics/
+  membership:
+    '2013-02-03': '339'
+- !ruby/object:MeetupTracker::Group
+  name: Rhode Island Atheist Society
+  url: http://www.meetup.com/Atheist/
+  membership:
+    '2013-02-03': '338'
+- !ruby/object:MeetupTracker::Group
+  name: The North Suburban Chicago Freethinkers Meetup Group
+  url: http://www.meetup.com/brights-181/
+  membership:
+    '2013-02-03': '335'
+- !ruby/object:MeetupTracker::Group
+  name: Greater Boston Humanists
+  url: http://www.meetup.com/GreaterBostonHumanists/
+  membership:
+    '2013-02-03': '333'
+- !ruby/object:MeetupTracker::Group
+  name: Capital Region Atheists & Agnostics
+  url: http://www.meetup.com/atheists-531/
+  membership:
+    '2013-02-03': '330'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Association of Greater Philadelphia
+  url: http://www.meetup.com/humanism-152/
+  membership:
+    '2013-02-03': '327'
+- !ruby/object:MeetupTracker::Group
+  name: The Fox Valley Atheists Meetup Group
+  url: http://www.meetup.com/Fox-Valley-Atheists/
+  membership:
+    '2013-02-03': '320'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Milwaukee
+  url: http://www.meetup.com/Atheist-Community-of-Milwaukee/
+  membership:
+    '2013-02-03': '319'
+- !ruby/object:MeetupTracker::Group
+  name: Salt City Skeptics
+  url: http://www.meetup.com/saltcityskeptics/
+  membership:
+    '2013-02-03': '319'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Hikers
+  url: http://www.meetup.com/Secular-Hikers/
+  membership:
+    '2013-02-03': '319'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Colorado Springs
+  url: http://www.meetup.com/AtheistCommunityCS/
+  membership:
+    '2013-02-03': '317'
+- !ruby/object:MeetupTracker::Group
+  name: Open on Sundays Social Club
+  url: http://www.meetup.com/openonsundays/
+  membership:
+    '2013-02-03': '315'
+- !ruby/object:MeetupTracker::Group
+  name: The Non-Religious, Young, Singles Los Angeles/Westside Group
+  url: http://www.meetup.com/The-Non-Religious-Young-Singles-Los-Angeles-Westside-Group/
+  membership:
+    '2013-02-03': '313'
+- !ruby/object:MeetupTracker::Group
+  name: The Orange County Atheists Conversational Meetup
+  url: http://www.meetup.com/The-Orange-County-Atheists-Conversational-Meetup/
+  membership:
+    '2013-02-03': '311'
+- !ruby/object:MeetupTracker::Group
+  name: The ex-religious of Greater Vancouver
+  url: http://www.meetup.com/ex-religious-of-greater-vancouver/
+  membership:
+    '2013-02-03': '309'
+- !ruby/object:MeetupTracker::Group
+  name: Eastside Atheist/Agnostic  Meetup
+  url: http://www.meetup.com/Eastside-Atheists-Agnostics/
+  membership:
+    '2013-02-03': '307'
+- !ruby/object:MeetupTracker::Group
+  name: The SE Louisiana Freethinkers & Nonbelievers Meetup
+  url: http://www.meetup.com/new-orleans-atheists/
+  membership:
+    '2013-02-03': '307'
+- !ruby/object:MeetupTracker::Group
+  name: The Indianapolis Atheists Meetup Group
+  url: http://www.meetup.com/atheists-174/
+  membership:
+    '2013-02-03': '305'
+- !ruby/object:MeetupTracker::Group
+  name: Florida Atheists, Critical Thinkers & Skeptics (F.A.C.T.S)
+  url: http://www.meetup.com/critical/
+  membership:
+    '2013-02-03': '304'
+- !ruby/object:MeetupTracker::Group
+  name: London Atheist Activist Group (friendly community)
+  url: http://www.meetup.com/London-Atheist-Activist-Group-friendly-community/
+  membership:
+    '2013-02-03': '304'
+- !ruby/object:MeetupTracker::Group
+  name: The Spokane Secular Meetup
+  url: http://www.meetup.com/spokanesecularists/
+  membership:
+    '2013-02-03': '303'
+- !ruby/object:MeetupTracker::Group
+  name: Charlotte Philosophy Discussion Group
+  url: http://www.meetup.com/Charlotte-Philosophers/
+  membership:
+    '2013-02-03': '297'
+- !ruby/object:MeetupTracker::Group
+  name: Greater Worcester Humanists
+  url: http://www.meetup.com/worcesterhumanists/
+  membership:
+    '2013-02-03': '289'
+- !ruby/object:MeetupTracker::Group
+  name: Madison Skeptics
+  url: http://www.meetup.com/madisonskeptics/
+  membership:
+    '2013-02-03': '289'
+- !ruby/object:MeetupTracker::Group
+  name: Center For Inquiry Northeast Ohio
+  url: http://www.meetup.com/CFI-NEO/
+  membership:
+    '2013-02-03': '285'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'GUST (Gwinnett: Understanding Secular Truths)'
+  url: http://www.meetup.com/brights-295/
+  membership:
+    '2013-02-03': '285'
+- !ruby/object:MeetupTracker::Group
+  name: The East Texas Freethinkers Meetup Group
+  url: http://www.meetup.com/atheists-644/
+  membership:
+    '2013-02-03': '285'
+- !ruby/object:MeetupTracker::Group
+  name: Corridor A-Team
+  url: http://www.corridor-a-team.com/
+  membership:
+    '2013-02-03': '284'
+- !ruby/object:MeetupTracker::Group
+  name: The Lexington Atheists Meetup Group
+  url: http://www.meetup.com/The-Lexington-Atheists-Meetup-Group/
+  membership:
+    '2013-02-03': '284'
+- !ruby/object:MeetupTracker::Group
+  name: The Syracuse Atheists Meetup Group
+  url: http://www.meetup.com/syracuse-atheists/
+  membership:
+    '2013-02-03': '283'
+- !ruby/object:MeetupTracker::Group
+  name: Kansas City Atheists
+  url: http://www.meetup.com/atheists-140/
+  membership:
+    '2013-02-03': '281'
+- !ruby/object:MeetupTracker::Group
+  name: New Jersey Humanist Network
+  url: http://www.meetup.com/NJHumanistNetwork/
+  membership:
+    '2013-02-03': '281'
+- !ruby/object:MeetupTracker::Group
+  name: Alaskan Atheists
+  url: http://www.meetup.com/AlaskanAtheists/
+  membership:
+    '2013-02-03': '280'
+- !ruby/object:MeetupTracker::Group
+  name: Grand River Atheists
+  url: http://www.meetup.com/atheism/
+  membership:
+    '2013-02-03': '280'
+- !ruby/object:MeetupTracker::Group
+  name: Connecticut Valley Atheists Meetup Group
+  url: http://www.meetup.com/atheists-727/
+  membership:
+    '2013-02-03': '278'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Parents Club (Denver and Boulder)
+  url: http://www.meetup.com/secularparents2008/
+  membership:
+    '2013-02-03': '278'
+- !ruby/object:MeetupTracker::Group
+  name: Richmond Reason and Naturalism Association
+  url: http://www.meetup.com/brights-150/
+  membership:
+    '2013-02-03': '277'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinkers Atheists Agnostics Brights Humanists & Skeptics
+  url: http://www.meetup.com/freethought/
+  membership:
+    '2013-02-03': '273'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Community at Harvard University
+  url: http://www.meetup.com/HarvardHumanist/
+  membership:
+    '2013-02-03': '270'
+- !ruby/object:MeetupTracker::Group
+  name: The Adelaide Atheists Meetup Group
+  url: http://www.meetup.com/adelaideatheists/
+  membership:
+    '2013-02-03': '269'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Vancouver Atheists, Agnostics and Humanists
+  url: http://www.meetup.com/Atheists-Agnostics-and-Humanists-Meetup-Group/
+  membership:
+    '2013-02-03': '266'
+- !ruby/object:MeetupTracker::Group
+  name: Long Beach Atheists
+  url: http://www.meetup.com/Long-Beach-Atheist/
+  membership:
+    '2013-02-03': '265'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Community in Silicon Valley
+  url: http://www.meetup.com/humanistcommunity/
+  membership:
+    '2013-02-03': '263'
+- !ruby/object:MeetupTracker::Group
+  name: The Edinburgh Humanist Society of Scotland Meetup Group
+  url: http://www.meetup.com/edinburghhumanists/
+  membership:
+    '2013-02-03': '263'
+- !ruby/object:MeetupTracker::Group
+  name: NSW Humanists Meetup
+  url: http://www.meetup.com/nswhumanists/
+  membership:
+    '2013-02-03': '262'
+- !ruby/object:MeetupTracker::Group
+  name: Centre for Inquiry | Nova Scotia | Halifax (CFI)
+  url: http://www.meetup.com/CFI-NS/
+  membership:
+    '2013-02-03': '261'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry - Michigan Meetup
+  url: http://www.meetup.com/centerforinquiry/
+  membership:
+    '2013-02-03': '258'
+- !ruby/object:MeetupTracker::Group
+  name: Freedom From Religion Foundation - Valley of the Sun Chapter
+  url: http://www.meetup.com/ffrf-vsun/
+  membership:
+    '2013-02-03': '258'
+- !ruby/object:MeetupTracker::Group
+  name: The Mid-Michigan Atheists & Humanists Meetup Group
+  url: http://www.meetup.com/Mid-Michigan-Atheists-and-Humanists/
+  membership:
+    '2013-02-03': '258'
+- !ruby/object:MeetupTracker::Group
+  name: Charlottesville Skeptics
+  url: http://www.meetup.com/cvilleskeptics/
+  membership:
+    '2013-02-03': '256'
+- !ruby/object:MeetupTracker::Group
+  name: The Michigan Skeptics Association
+  url: http://www.meetup.com/MISkeptics/
+  membership:
+    '2013-02-03': '256'
+- !ruby/object:MeetupTracker::Group
+  name: Stockton Area Atheists and Freethinkers
+  url: http://www.stocktonaaf.org/
+  membership:
+    '2013-02-03': '255'
+- !ruby/object:MeetupTracker::Group
+  name: The Secular Humanist Group of Alberta
+  url: http://www.meetup.com/SecularHumanistsofAlberta/
+  membership:
+    '2013-02-03': '253'
+- !ruby/object:MeetupTracker::Group
+  name: Socrates Cafe Louisville
+  url: http://www.meetup.com/Socrates-Cafe-Louisville/
+  membership:
+    '2013-02-03': '251'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists and Agnostics of Richmond
+  url: http://www.meetup.com/Atheists-of-Richmond/
+  membership:
+    '2013-02-03': '249'
+- !ruby/object:MeetupTracker::Group
+  name: The New York City Brights Meetup Group
+  url: http://www.meetup.com/brights-147/
+  membership:
+    '2013-02-03': '248'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists United - San Fernando Valley Meetup Group
+  url: http://www.meetup.com/atheists-614/
+  membership:
+    '2013-02-03': '247'
+- !ruby/object:MeetupTracker::Group
+  name: Memphis Freethought Alliance
+  url: http://www.meetup.com/secularhumanism-18/
+  membership:
+    '2013-02-03': '247'
+- !ruby/object:MeetupTracker::Group
+  name: Central Valley Alliance of Atheists and Skeptics
+  url: http://www.meetup.com/Fresno-cvaas/
+  membership:
+    '2013-02-03': '246'
+- !ruby/object:MeetupTracker::Group
+  name: Centre for Inquiry UK
+  url: http://www.meetup.com/Centre-for-Inquiry-UK/
+  membership:
+    '2013-02-03': '245'
+- !ruby/object:MeetupTracker::Group
+  name: Provocateurs and Peacemakers
+  url: http://www.meetup.com/ProvocateursAndPeacemakers/
+  membership:
+    '2013-02-03': '244'
+- !ruby/object:MeetupTracker::Group
+  name: The Tri-Cities Freethinkers Group
+  url: http://www.meetup.com/Tri-Cities-Freethinkers/
+  membership:
+    '2013-02-03': '241'
+- !ruby/object:MeetupTracker::Group
+  name: Corridor Secularists
+  url: http://www.meetup.com/atheists-587/
+  membership:
+    '2013-02-03': '238'
+- !ruby/object:MeetupTracker::Group
+  name: SW London Humanists UK | Humanism SW London Richmond England
+  url: http://www.meetup.com/South-West-London-Humanists-Group-UK/
+  membership:
+    '2013-02-03': '238'
+- !ruby/object:MeetupTracker::Group
+  name: Westside Science & Religion Discussion Group
+  url: http://www.meetup.com/WestsideTalk/
+  membership:
+    '2013-02-03': '238'
+- !ruby/object:MeetupTracker::Group
+  name: The Godless Horde of Salt Lake
+  url: http://www.meetup.com/godless/
+  membership:
+    '2013-02-03': '233'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists & Humanists of Florida-Tampa
+  url: http://www.meetup.com/HumanAtheists/
+  membership:
+    '2013-02-03': '231'
+- !ruby/object:MeetupTracker::Group
+  name: North of Seattle Atheists & Agnostics
+  url: http://www.meetup.com/North-Of-Seattle-Atheists/
+  membership:
+    '2013-02-03': '231'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Northwest Arkansas
+  url: http://www.meetup.com/FreethoughtNWA/
+  membership:
+    '2013-02-03': '230'
+- !ruby/object:MeetupTracker::Group
+  name: The Gastonia Society for FreeThought
+  url: http://www.meetup.com/gastonia-freethinkers/
+  membership:
+    '2013-02-03': '230'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists United SLO
+  url: http://www.meetup.com/San-Luis-Obispo-Atheists/
+  membership:
+    '2013-02-03': '229'
+- !ruby/object:MeetupTracker::Group
+  name: Non-Believer Singles of DC (30's, 40's & 50's)
+  url: http://www.meetup.com/Non-Believer-Singles-of-DC-30s-40s-50s/
+  membership:
+    '2013-02-03': '229'
+- !ruby/object:MeetupTracker::Group
+  name: St. Pete-Atheists//Free-Thought Group
+  url: http://www.meetup.com/atheists-209/
+  membership:
+    '2013-02-03': '229'
+- !ruby/object:MeetupTracker::Group
+  name: The Humanist Association of Connecticut Meetup Group
+  url: http://www.meetup.com/cthumanist/
+  membership:
+    '2013-02-03': '229'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Skeptics of Eugene
+  url: http://www.meetup.com/CFI-Eugene/
+  membership:
+    '2013-02-03': '228'
+- !ruby/object:MeetupTracker::Group
+  name: Fredericksburg Skeptics
+  url: http://www.meetup.com/FredericksburgSkeptics/
+  membership:
+    '2013-02-03': '227'
+- !ruby/object:MeetupTracker::Group
+  name: Dallas Brights Family Meetup
+  url: http://www.meetup.com/DallasBrights/
+  membership:
+    '2013-02-03': '222'
+- !ruby/object:MeetupTracker::Group
+  name: Prescott Freethinkers
+  url: http://www.meetup.com/Prescott-Freethinkers/
+  membership:
+    '2013-02-03': '222'
+- !ruby/object:MeetupTracker::Group
+  name: The Hollywood-East LA Atheists Meetup Group
+  url: http://www.meetup.com/atheists-eastla/
+  membership:
+    '2013-02-03': '222'
+- !ruby/object:MeetupTracker::Group
+  name: F.U.N. Eastside Freethinkers & Atheists
+  url: http://www.meetup.com/Freethinkers-United-Network-F-U-N/
+  membership:
+    '2013-02-03': '221'
+- !ruby/object:MeetupTracker::Group
+  name: 21st Century Humanism
+  url: http://www.meetup.com/21st-Century-Humanism-googlegroups-com/
+  membership:
+    '2013-02-03': '220'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Topeka (ACT)
+  url: http://www.meetup.com/atheistcommunity/
+  membership:
+    '2013-02-03': '220'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists and Humanists of Florida-Orlando
+  url: http://www.meetup.com/Orlando-Atheists/
+  membership:
+    '2013-02-03': '220'
+- !ruby/object:MeetupTracker::Group
+  name: Idaho Society of Reason
+  url: http://www.meetup.com/nontheist/
+  membership:
+    '2013-02-03': '220'
+- !ruby/object:MeetupTracker::Group
+  name: Lehigh Valley Humanists
+  url: http://www.meetup.com/Lehigh-Valley-Humanists/
+  membership:
+    '2013-02-03': '220'
+- !ruby/object:MeetupTracker::Group
+  name: The Northwest Freethought Coalition Events Meetup Group
+  url: http://www.meetup.com/NWFC-Events/
+  membership:
+    '2013-02-03': '220'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Washington - Heathens Do It Better
+  url: http://www.meetup.com/HeathensDoItBetter/
+  membership:
+    '2013-02-03': '219'
+- !ruby/object:MeetupTracker::Group
+  name: Kansas Freethought Society
+  url: http://www.meetup.com/Kansas-Freethought-Society/
+  membership:
+    '2013-02-03': '219'
+- !ruby/object:MeetupTracker::Group
+  name: ! '"Parenting Beyond Belief"'
+  url: http://www.meetup.com/RaleighPBB/
+  membership:
+    '2013-02-03': '218'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of  Northwest Indiana
+  url: http://www.meetup.com/Atheist-Community-of-Northwest-Indiana/
+  membership:
+    '2013-02-03': '215'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Secular Family Network
+  url: http://www.meetup.com/cfi-sfn/
+  membership:
+    '2013-02-03': '215'
+- !ruby/object:MeetupTracker::Group
+  name: The Ventura Atheists Meetup Group
+  url: http://www.meetup.com/venturaatheists/
+  membership:
+    '2013-02-03': '214'
+- !ruby/object:MeetupTracker::Group
+  name: The Ithaca Atheists Meetup
+  url: http://www.meetup.com/Ithaca-Atheists/
+  membership:
+    '2013-02-03': '212'
+- !ruby/object:MeetupTracker::Group
+  name: Physics and Philosophy
+  url: http://www.meetup.com/physicsandphilosophy/
+  membership:
+    '2013-02-03': '211'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry Indiana
+  url: http://www.meetup.com/secularhumanism-13/
+  membership:
+    '2013-02-03': '209'
+- !ruby/object:MeetupTracker::Group
+  name: Baltimore Secular Humanists
+  url: http://www.meetup.com/humanism-194/
+  membership:
+    '2013-02-03': '208'
+- !ruby/object:MeetupTracker::Group
+  name: Brevard Area Atheists Meetup
+  url: http://www.meetup.com/Brevard-FL-Atheists/
+  membership:
+    '2013-02-03': '207'
+- !ruby/object:MeetupTracker::Group
+  name: Nontheist Gathering
+  url: http://www.meetup.com/Nontheist-Gathering/
+  membership:
+    '2013-02-03': '207'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry-Tampa Bay Meetup
+  url: http://www.meetup.com/CFI-Tampa-Bay/
+  membership:
+    '2013-02-03': '206'
+- !ruby/object:MeetupTracker::Group
+  name: Columbia Atheists
+  url: http://www.meetup.com/The-Columbia-Atheists-Meetup-Group/
+  membership:
+    '2013-02-03': '205'
+- !ruby/object:MeetupTracker::Group
+  name: DC Objectivist Salon (DCOS)
+  url: http://www.meetup.com/DC-Objectivist-Salon/
+  membership:
+    '2013-02-03': '205'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Rhode Island
+  url: http://www.meetup.com/Humanists-of-Rhode-Island/
+  membership:
+    '2013-02-03': '205'
+- !ruby/object:MeetupTracker::Group
+  name: Ockham's Cafe
+  url: http://www.meetup.com/Ockhams-Cafe/
+  membership:
+    '2013-02-03': '205'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Bible Study
+  url: http://www.meetup.com/Secular-Bible-Study/
+  membership:
+    '2013-02-03': '205'
+- !ruby/object:MeetupTracker::Group
+  name: Montgomery Area Freethought Association
+  url: http://www.montgomeryfreethought.org/
+  membership:
+    '2013-02-03': '204'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Saskatoon/Saskatoon Freethinkers
+  url: http://www.meetup.com/Saskatoon-Freethinkers/
+  membership:
+    '2013-02-03': '203'
+- !ruby/object:MeetupTracker::Group
+  name: Contra Costa Atheists and Freethinkers (CCAF)
+  url: http://www.meetup.com/Contra-Costa-Atheists-and-Freethinkers/
+  membership:
+    '2013-02-03': '202'
+- !ruby/object:MeetupTracker::Group
+  name: The Wheaton Atheists Meetup Group
+  url: http://www.meetup.com/atheists-199/
+  membership:
+    '2013-02-03': '201'
+- !ruby/object:MeetupTracker::Group
+  name: Greater Mobile Atheists
+  url: http://www.meetup.com/greatermobileatheists/
+  membership:
+    '2013-02-03': '200'
+- !ruby/object:MeetupTracker::Group
+  name: ReasonableNewYork
+  url: http://www.meetup.com/ReasonableNewYork/
+  membership:
+    '2013-02-03': '200'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Utah-Ogden Sect
+  url: http://www.meetup.com/aofuogden/
+  membership:
+    '2013-02-03': '199'
+- !ruby/object:MeetupTracker::Group
+  name: H.R.H., "Deities Ltd."
+  url: http://www.meetup.com/HRHDeities-Ltd/
+  membership:
+    '2013-02-03': '199'
+- !ruby/object:MeetupTracker::Group
+  name: The Central Oregon Atheists
+  url: http://www.meetup.com/CentralOregonAtheists/
+  membership:
+    '2013-02-03': '199'
+- !ruby/object:MeetupTracker::Group
+  name: Ann Arbor Atheists
+  url: http://www.meetup.com/Ann-Arbor-Atheists/
+  membership:
+    '2013-02-03': '197'
+- !ruby/object:MeetupTracker::Group
+  name: Fellowship of Reason
+  url: http://www.meetup.com/FellowshipofReason/
+  membership:
+    '2013-02-03': '197'
+- !ruby/object:MeetupTracker::Group
+  name: Las Vegas Freethinking Homeschoolers
+  url: http://www.meetup.com/LasVegas-Freethinking-Homeschoolers/
+  membership:
+    '2013-02-03': '196'
+- !ruby/object:MeetupTracker::Group
+  name: Northland Freethinkers
+  url: http://www.meetup.com/Northland-Freethinkers/
+  membership:
+    '2013-02-03': '195'
+- !ruby/object:MeetupTracker::Group
+  name: The Tallahassee Atheists
+  url: http://www.meetup.com/tally-atheists/
+  membership:
+    '2013-02-03': '194'
+- !ruby/object:MeetupTracker::Group
+  name: West Midlands Atheist Meetup
+  url: http://www.meetup.com/atheists-654/
+  membership:
+    '2013-02-03': '191'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinkers Society of the Permian Basin
+  url: http://www.meetup.com/Freethinkers-Society-of-the-Permian-Basin/
+  membership:
+    '2013-02-03': '190'
+- !ruby/object:MeetupTracker::Group
+  name: CFI–DC Drinking Skeptically Baltimore
+  url: http://www.meetup.com/CFI-DC-Drinking-Skeptically-Baltimore/
+  membership:
+    '2013-02-03': '188'
+- !ruby/object:MeetupTracker::Group
+  name: Fayette Freethought Society
+  url: http://www.meetup.com/Fayette-Freethought-Society/
+  membership:
+    '2013-02-03': '188'
+- !ruby/object:MeetupTracker::Group
+  name: Twin Cities Secular Singles Group
+  url: http://www.meetup.com/Twin-Cities-Secular-Singles-Group/
+  membership:
+    '2013-02-03': '188'
+- !ruby/object:MeetupTracker::Group
+  name: FLorida Atheists and Secular Humanists, Deerfield/Boca
+  url: http://www.meetup.com/FLASH-Deerfield-Boca/
+  membership:
+    '2013-02-03': '187'
+- !ruby/object:MeetupTracker::Group
+  name: Heathen Chicks
+  url: http://www.meetup.com/HeathenChicks/
+  membership:
+    '2013-02-03': '186'
+- !ruby/object:MeetupTracker::Group
+  name: Skeptics in the Pub (Fort Collins)
+  url: http://www.meetup.com/focoskeptics/
+  membership:
+    '2013-02-03': '186'
+- !ruby/object:MeetupTracker::Group
+  name: Flagstaff Freethinkers
+  url: http://www.meetup.com/Flagstaff-Freethinkers/
+  membership:
+    '2013-02-03': '185'
+- !ruby/object:MeetupTracker::Group
+  name: Military Atheists & Secular Humanists
+  url: http://www.meetup.com/MASHFortBragg/
+  membership:
+    '2013-02-03': '185'
+- !ruby/object:MeetupTracker::Group
+  name: The Lubbock Atheists Meetup Group
+  url: http://www.meetup.com/atheists-496/
+  membership:
+    '2013-02-03': '183'
+- !ruby/object:MeetupTracker::Group
+  name: FLASH community of Palm Beach North
+  url: http://www.meetup.com/FLASH-of-Palm-Beach/
+  membership:
+    '2013-02-03': '182'
+- !ruby/object:MeetupTracker::Group
+  name: Lancaster Freethought Society
+  url: http://www.meetup.com/lancaster-freethought-society/
+  membership:
+    '2013-02-03': '182'
+- !ruby/object:MeetupTracker::Group
+  name: DFW Freethinker Singles
+  url: http://www.meetup.com/DWF-Freethinker-Singles/
+  membership:
+    '2013-02-03': '181'
+- !ruby/object:MeetupTracker::Group
+  name: Asheville Skeptics
+  url: http://www.meetup.com/Asheville-Skeptics/
+  membership:
+    '2013-02-03': '179'
+- !ruby/object:MeetupTracker::Group
+  name: The Science and Philosophy Book Club
+  url: http://www.meetup.com/SciencePhilosophyBookGroup/
+  membership:
+    '2013-02-03': '178'
+- !ruby/object:MeetupTracker::Group
+  name: Fun NYC Non-religious/Secular Singles for Friends & Dating
+  url: http://www.meetup.com/Fun-NYC-Non-religious-Secular-Singles-for-Friends-Dating/
+  membership:
+    '2013-02-03': '177'
+- !ruby/object:MeetupTracker::Group
+  name: The Kansas City Humanism Meetup Group
+  url: http://www.meetup.com/kc-humanists/
+  membership:
+    '2013-02-03': '177'
+- !ruby/object:MeetupTracker::Group
+  name: Lincoln Atheists
+  url: http://www.lincolnatheists.org/
+  membership:
+    '2013-02-03': '175'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Humanists
+  url: http://www.meetup.com/SecularHumanists/
+  membership:
+    '2013-02-03': '173'
+- !ruby/object:MeetupTracker::Group
+  name: The Center For Inquiry Community of Fort Lauderdale
+  url: http://www.meetup.com/CFIfortlauderdale/
+  membership:
+    '2013-02-03': '173'
+- !ruby/object:MeetupTracker::Group
+  name: Corpus Christi Atheists
+  url: http://www.meetup.com/Corpus-Christi-Atheists/
+  membership:
+    '2013-02-03': '170'
+- !ruby/object:MeetupTracker::Group
+  name: African Americans for Humanism DC (AAH DC)
+  url: http://www.meetup.com/AAH-DC/
+  membership:
+    '2013-02-03': '169'
+- !ruby/object:MeetupTracker::Group
+  name: Madison Atheist
+  url: http://www.meetup.com/Madison-Atheist/
+  membership:
+    '2013-02-03': '168'
+- !ruby/object:MeetupTracker::Group
+  name: Champaign Urbana Freethinkers
+  url: http://www.meetup.com/secularhumanism-16/
+  membership:
+    '2013-02-03': '167'
+- !ruby/object:MeetupTracker::Group
+  name: FLorida Atheist and Secular Humanists, N. Miami
+  url: http://www.meetup.com/FLASH-Miami-north/
+  membership:
+    '2013-02-03': '166'
+- !ruby/object:MeetupTracker::Group
+  name: Hamilton-Niagara Atheist/Humanists, Spons. by CFI (Toronto)
+  url: http://www.meetup.com/atheists-653/
+  membership:
+    '2013-02-03': '166'
+- !ruby/object:MeetupTracker::Group
+  name: Rochester Area Freethinkers (RAFT)
+  url: http://www.meetup.com/raftmn/
+  membership:
+    '2013-02-03': '164'
+- !ruby/object:MeetupTracker::Group
+  name: Antelope Valley Freethinkers
+  url: http://www.meetup.com/av-freethinkers/
+  membership:
+    '2013-02-03': '163'
+- !ruby/object:MeetupTracker::Group
+  name: Tri-City Freethinkers
+  url: http://www.meetup.com/Tri-City-Freethinkers/
+  membership:
+    '2013-02-03': '163'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Brandon
+  url: http://www.meetup.com/Atheists-of-Brandon/
+  membership:
+    '2013-02-03': '162'
+- !ruby/object:MeetupTracker::Group
+  name: Lafayette Atheists and Freethinkers Forum
+  url: http://meetup.lafatheists.org/
+  membership:
+    '2013-02-03': '162'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Rochester
+  url: http://www.meetup.com/Atheist-Community-of-Rochester/
+  membership:
+    '2013-02-03': '161'
+- !ruby/object:MeetupTracker::Group
+  name: Former Fundamentalists (Twin Cities/Minnesota)
+  url: http://www.meetup.com/Former-Fundamentalists/
+  membership:
+    '2013-02-03': '161'
+- !ruby/object:MeetupTracker::Group
+  name: Kitsap Atheists and Agnostics
+  url: http://www.meetup.com/Kitsap-Atheists-and-Agnostics/
+  membership:
+    '2013-02-03': '158'
+- !ruby/object:MeetupTracker::Group
+  name: Skeptics 20s-30s
+  url: http://www.meetup.com/Skeptics2030/
+  membership:
+    '2013-02-03': '157'
+- !ruby/object:MeetupTracker::Group
+  name: Orlando Freethinkers & Humanists
+  url: http://www.meetup.com/GotReason/
+  membership:
+    '2013-02-03': '156'
+- !ruby/object:MeetupTracker::Group
+  name: Hagerstown Area Freethinkers
+  url: http://www.meetup.com/freethinker/
+  membership:
+    '2013-02-03': '155'
+- !ruby/object:MeetupTracker::Group
+  name: Northeast Ohio Atheists
+  url: http://www.meetup.com/NEO-Atheists/
+  membership:
+    '2013-02-03': '155'
+- !ruby/object:MeetupTracker::Group
+  name: Southeast Alabama Freethought Association
+  url: http://www.meetup.com/SoutheastAlabamaFreethought/
+  membership:
+    '2013-02-03': '155'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Families
+  url: http://www.meetup.com/Secular-Families/
+  membership:
+    '2013-02-03': '154'
+- !ruby/object:MeetupTracker::Group
+  name: Columbus Freethinkers
+  url: http://www.meetup.com/ColumbusFreethinkers/
+  membership:
+    '2013-02-03': '153'
+- !ruby/object:MeetupTracker::Group
+  name: Michigan Atheists on Meetup
+  url: http://www.meetup.com/MichiganAtheists/
+  membership:
+    '2013-02-03': '152'
+- !ruby/object:MeetupTracker::Group
+  name: The Denton Atheists Meetup Group
+  url: http://www.meetup.com/The-Denton-Atheists-Meetup-Group/
+  membership:
+    '2013-02-03': '152'
+- !ruby/object:MeetupTracker::Group
+  name: Mississippi Gulf Coast Atheist and Freethinking Association
+  url: http://www.meetup.com/atheists-131/
+  membership:
+    '2013-02-03': '151'
+- !ruby/object:MeetupTracker::Group
+  name: NYC - No God? - Know Astronomy Instead!
+  url: http://www.meetup.com/If-God-doesnt-do-it-for-you-try-learning-Astronomy-instead/
+  membership:
+    '2013-02-03': '151'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Humanist Society of CT and RI
+  url: http://www.meetup.com/Atheist-Humanist-Society-of-CT-and-RI/
+  membership:
+    '2013-02-03': '150'
+- !ruby/object:MeetupTracker::Group
+  name: London Ex-Muslim Meetup Group
+  url: http://www.meetup.com/exmuslim-34/
+  membership:
+    '2013-02-03': '150'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists United -- South Bay Meetup Group
+  url: http://www.meetup.com/atheists-729/
+  membership:
+    '2013-02-03': '148'
+- !ruby/object:MeetupTracker::Group
+  name: The Glasgow Brights Meetup Group
+  url: http://www.meetup.com/Glasgow-Brights/
+  membership:
+    '2013-02-03': '148'
+- !ruby/object:MeetupTracker::Group
+  name: THE PHILOSOPHERS' CAFE (no RSVP needed, many attend)
+  url: http://www.meetup.com/philosopherscafevictoria/
+  membership:
+    '2013-02-03': '147'
+- !ruby/object:MeetupTracker::Group
+  name: Peoria Secular Humanist Society
+  url: http://www.meetup.com/PeoriaSecularHumanistSociety/
+  membership:
+    '2013-02-03': '145'
+- !ruby/object:MeetupTracker::Group
+  name: Halton-Peel Humanist Community
+  url: http://meetup.haltonpeelhumanists.ca/
+  membership:
+    '2013-02-03': '143'
+- !ruby/object:MeetupTracker::Group
+  name: The Canberra Atheists Meetup Group
+  url: http://www.meetup.com/atheists-596/
+  membership:
+    '2013-02-03': '142'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'Ergo: discussions about rationality, philosophy and science'
+  url: http://www.meetup.com/rationality/
+  membership:
+    '2013-02-03': '141'
+- !ruby/object:MeetupTracker::Group
+  name: London Atheist Group
+  url: http://www.meetup.com/friends-518/
+  membership:
+    '2013-02-03': '141'
+- !ruby/object:MeetupTracker::Group
+  name: Siouxland Freethinkers
+  url: http://slft.org/
+  membership:
+    '2013-02-03': '141'
+- !ruby/object:MeetupTracker::Group
+  name: The Fargo-Moorhead Atheists Meetup
+  url: http://www.meetup.com/FMAtheists/
+  membership:
+    '2013-02-03': '141'
+- !ruby/object:MeetupTracker::Group
+  name: Heretics Anonymous
+  url: http://www.meetup.com/biblestudy-385/
+  membership:
+    '2013-02-03': '140'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Greater Lowell
+  url: http://www.meetup.com/lowellatheists/
+  membership:
+    '2013-02-03': '138'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists United Family Group
+  url: http://www.meetup.com/AUFamilies/
+  membership:
+    '2013-02-03': '138'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Vancouver Skeptics
+  url: http://www.meetup.com/cfi-vsm/
+  membership:
+    '2013-02-03': '138'
+- !ruby/object:MeetupTracker::Group
+  name: West Valley Freethinkers
+  url: http://www.meetup.com/West-Valley-Free-Thinkers/
+  membership:
+    '2013-02-03': '138'
+- !ruby/object:MeetupTracker::Group
+  name: West Valley Secular Humanists
+  url: http://www.meetup.com/secularhumanism-17/
+  membership:
+    '2013-02-03': '138'
+- !ruby/object:MeetupTracker::Group
+  name: Backyard Skeptics Los Angeles
+  url: http://www.meetup.com/Backyard-Skeptics-LA/
+  membership:
+    '2013-02-03': '136'
+- !ruby/object:MeetupTracker::Group
+  name: LGBT Atheists & Freethinkers
+  url: http://www.meetup.com/LGBT-Atheists-Freethinkers/
+  membership:
+    '2013-02-03': '136'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist/Agnostic Parents of Seattle
+  url: http://www.meetup.com/Atheist-Agnostic-Parents-Seattle/
+  membership:
+    '2013-02-03': '135'
+- !ruby/object:MeetupTracker::Group
+  name: Socrates Café Crofton
+  url: http://www.meetup.com/socrates-cafe-crofton/
+  membership:
+    '2013-02-03': '135'
+- !ruby/object:MeetupTracker::Group
+  name: Drinking Skeptically - Richmond
+  url: http://www.meetup.com/Drinking-Skeptically-RIC/
+  membership:
+    '2013-02-03': '133'
+- !ruby/object:MeetupTracker::Group
+  name: Macon Atheists & Secular Humanists
+  url: http://www.meetup.com/georgiamash/
+  membership:
+    '2013-02-03': '133'
+- !ruby/object:MeetupTracker::Group
+  name: Utah Valley Postmormons
+  url: http://www.meetup.com/UtahValleyPostmormons/
+  membership:
+    '2013-02-03': '133'
+- !ruby/object:MeetupTracker::Group
+  name: Black Nonbelievers
+  url: http://www.meetup.com/Black-Nonbelievers/
+  membership:
+    '2013-02-03': '132'
+- !ruby/object:MeetupTracker::Group
+  name: The Libertarian Atheists Meetup Group
+  url: http://www.meetup.com/atheists-447/
+  membership:
+    '2013-02-03': '132'
+- !ruby/object:MeetupTracker::Group
+  name: First Minneapolis Circle of Reason
+  url: http://www.meetup.com/circle-of-reason-minneapolis/
+  membership:
+    '2013-02-03': '131'
+- !ruby/object:MeetupTracker::Group
+  name: Pioneer Valley Secularists
+  url: http://www.meetup.com/Pioneer-Valley-Secularists/
+  membership:
+    '2013-02-03': '130'
+- !ruby/object:MeetupTracker::Group
+  name: The Secular Parents of Louisville Meetup Group
+  url: http://www.meetup.com/The-Secular-Parents-of-Louisville-Meetup-Group/
+  membership:
+    '2013-02-03': '129'
+- !ruby/object:MeetupTracker::Group
+  name: CFI–DC Secular Family Network
+  url: http://www.meetup.com/secularfamilynetwork/
+  membership:
+    '2013-02-03': '128'
+- !ruby/object:MeetupTracker::Group
+  name: The Bookmark Club
+  url: http://www.meetup.com/TheBookmarkClub/
+  membership:
+    '2013-02-03': '127'
+- !ruby/object:MeetupTracker::Group
+  name: Central NC Atheists & Humanists
+  url: http://www.meetup.com/CNCAtheists-and-Humanists/
+  membership:
+    '2013-02-03': '126'
+- !ruby/object:MeetupTracker::Group
+  name: Freedom Book Club
+  url: http://www.meetup.com/FreedomBookClub/
+  membership:
+    '2013-02-03': '126'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Book Club of Toledo
+  url: http://www.meetup.com/Toledo-Area-Atheist-and-Agnostic-Book-Club/
+  membership:
+    '2013-02-03': '124'
+- !ruby/object:MeetupTracker::Group
+  name: The Greensboro Atheist Meetup Group
+  url: http://www.meetup.com/herdingcats/
+  membership:
+    '2013-02-03': '123'
+- !ruby/object:MeetupTracker::Group
+  name: The Treasure Coast Atheists Meetup Group
+  url: http://www.meetup.com/atheists-600/
+  membership:
+    '2013-02-03': '123'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion™ ~ San Diego
+  url: http://www.meetup.com/exbelievers/
+  membership:
+    '2013-02-03': '122'
+- !ruby/object:MeetupTracker::Group
+  name: Auburn Freethought Society
+  url: http://www.meetup.com/Auburn-Freethought-Society/
+  membership:
+    '2013-02-03': '121'
+- !ruby/object:MeetupTracker::Group
+  name: Bloomington-Normal Freethinkers (BNFree)
+  url: http://www.meetup.com/BNFree/
+  membership:
+    '2013-02-03': '121'
+- !ruby/object:MeetupTracker::Group
+  name: Delaware Association for Humanism
+  url: http://www.meetup.com/DelawareHumanist/
+  membership:
+    '2013-02-03': '121'
+- !ruby/object:MeetupTracker::Group
+  name: The Springfield Area Freethinkers Meetup Group
+  url: http://www.meetup.com/safreethinkers/
+  membership:
+    '2013-02-03': '121'
+- !ruby/object:MeetupTracker::Group
+  name: Encontros Ateístas e Humanistas de Lisboa
+  url: http://encontros.humanismosecular.org/
+  membership:
+    '2013-02-03': '120'
+- !ruby/object:MeetupTracker::Group
+  name: Peachtree City Humanists (PTCH)
+  url: http://www.meetup.com/Peachtree-City-Humanists-PTCH/
+  membership:
+    '2013-02-03': '119'
+- !ruby/object:MeetupTracker::Group
+  name: Conway Freethinkers
+  url: http://www.meetup.com/ConwayFreethinkers/
+  membership:
+    '2013-02-03': '118'
+- !ruby/object:MeetupTracker::Group
+  name: Palm Springs Atheists Meetup Group
+  url: http://www.meetup.com/http-palmspringsatheists-wordpress-com/
+  membership:
+    '2013-02-03': '118'
+- !ruby/object:MeetupTracker::Group
+  name: St Petersburg Atheists
+  url: http://www.meetup.com/St-Pete-Atheists/
+  membership:
+    '2013-02-03': '118'
+- !ruby/object:MeetupTracker::Group
+  name: State Line FreeThinkers
+  url: http://www.meetup.com/StateLineFreeThinkers/
+  membership:
+    '2013-02-03': '117'
+- !ruby/object:MeetupTracker::Group
+  name: The Detroit Grassroots Atheism Project
+  url: http://www.meetup.com/GrassrootsAtheism/
+  membership:
+    '2013-02-03': '117'
+- !ruby/object:MeetupTracker::Group
+  name: Ethical Humanist Society of Chicago
+  url: http://www.meetup.com/ethical-humanist/
+  membership:
+    '2013-02-03': '116'
+- !ruby/object:MeetupTracker::Group
+  name: Detroit Atheist Social Hub
+  url: http://www.meetup.com/DetroitASH/
+  membership:
+    '2013-02-03': '115'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Families of the Valley
+  url: http://www.meetup.com/Freethought-Families-of-the-Valley/
+  membership:
+    '2013-02-03': '115'
+- !ruby/object:MeetupTracker::Group
+  name: The Southern Illinois Atheists Meetup Group
+  url: http://www.meetup.com/southernillinoisatheists/
+  membership:
+    '2013-02-03': '115'
+- !ruby/object:MeetupTracker::Group
+  name: Durham Region Freethinkers, Spons. by CFI Ontario (Toronto)
+  url: http://www.meetup.com/Durham-Region-Freethinkers-Sponsored-by-Centre-for-Inquiry/
+  membership:
+    '2013-02-03': '113'
+- !ruby/object:MeetupTracker::Group
+  name: Kanawha Valley Atheists and Agnostics
+  url: http://www.meetup.com/Kanawha-Valley-Atheists-and-Agnostics/
+  membership:
+    '2013-02-03': '113'
+- !ruby/object:MeetupTracker::Group
+  name: Cedar Valley Secularists
+  url: http://www.meetup.com/cvsecularists/
+  membership:
+    '2013-02-03': '112'
+- !ruby/object:MeetupTracker::Group
+  name: Miami Secular Humanists Book Club Meetup
+  url: http://www.meetup.com/bookclub-1370/
+  membership:
+    '2013-02-03': '112'
+- !ruby/object:MeetupTracker::Group
+  name: The Anti-Christ Society
+  url: http://www.meetup.com/RealWildChurch/
+  membership:
+    '2013-02-03': '112'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Florida - Sarasota
+  url: http://www.meetup.com/sarasota-atheists/
+  membership:
+    '2013-02-03': '109'
+- !ruby/object:MeetupTracker::Group
+  name: Long Island Atheists Meetup Group
+  url: http://www.meetup.com/atheists-728/
+  membership:
+    '2013-02-03': '109'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Friendship Community
+  url: http://www.meetup.com/Atheist-Friendship-Community/
+  membership:
+    '2013-02-03': '108'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Butte County
+  url: http://www.meetup.com/Atheists-of-Butte-County/
+  membership:
+    '2013-02-03': '108'
+- !ruby/object:MeetupTracker::Group
+  name: Northern Virginia Ethical Society
+  url: http://www.meetup.com/Northern-Virginia-Ethical-Society/
+  membership:
+    '2013-02-03': '108'
+- !ruby/object:MeetupTracker::Group
+  name: The Inter-Religious Conversation
+  url: http://www.meetup.com/theconversation/
+  membership:
+    '2013-02-03': '108'
+- !ruby/object:MeetupTracker::Group
+  name: The Santa Clarita Atheists and Freethinkers Meetup
+  url: http://www.meetup.com/SantaClaritaAtheistsandFreethinkers/
+  membership:
+    '2013-02-03': '108'
+- !ruby/object:MeetupTracker::Group
+  name: South Jersey Humanists
+  url: http://www.meetup.com/South-Jersey-Humanists/
+  membership:
+    '2013-02-03': '107'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'Ayn Rand: A Sense of Life'
+  url: http://www.meetup.com/aynrand-196/
+  membership:
+    '2013-02-03': '106'
+- !ruby/object:MeetupTracker::Group
+  name: Friends of the Ethical Humanist Society of the Triangle
+  url: http://www.meetup.com/ncethicalsociety/
+  membership:
+    '2013-02-03': '106'
+- !ruby/object:MeetupTracker::Group
+  name: Valley Skeptics in the Park
+  url: http://www.meetup.com/Valley-Skeptics-in-the-Park/
+  membership:
+    '2013-02-03': '106'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist vs Theist Debates
+  url: http://www.meetup.com/Atheist-vs-Theist-Debates/
+  membership:
+    '2013-02-03': '105'
+- !ruby/object:MeetupTracker::Group
+  name: Occult Philosophy Meetup
+  url: http://www.meetup.com/Occult-Philosophy-Meetup/
+  membership:
+    '2013-02-03': '105'
+- !ruby/object:MeetupTracker::Group
+  name: Unitarian Universalists of Benton County
+  url: http://www.meetup.com/Unitarian-Universalists-of-Benton-Co/
+  membership:
+    '2013-02-03': '105'
+- !ruby/object:MeetupTracker::Group
+  name: San Diego (North County) Atheists and Agnostics
+  url: http://www.meetup.com/SDNCAA/
+  membership:
+    '2013-02-03': '104'
+- !ruby/object:MeetupTracker::Group
+  name: The Deconverted
+  url: http://www.meetup.com/deconverted/
+  membership:
+    '2013-02-03': '104'
+- !ruby/object:MeetupTracker::Group
+  name: The Northern Oklahoma Freethinkers Meetup Group
+  url: http://www.meetup.com/The-Northern-Oklahoma-Freethinkers-Meetup-Group/
+  membership:
+    '2013-02-03': '104'
+- !ruby/object:MeetupTracker::Group
+  name: Erie Atheists and Agnostics
+  url: http://www.meetup.com/Erie-Atheists-and-Agnostics/
+  membership:
+    '2013-02-03': '103'
+- !ruby/object:MeetupTracker::Group
+  name: The Atheist Experience Of Western New York
+  url: http://www.meetup.com/The-Atheist-Experience-of-Western-New-York/
+  membership:
+    '2013-02-03': '103'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Social
+  url: http://www.meetup.com/AtheistSocial/
+  membership:
+    '2013-02-03': '102'
+- !ruby/object:MeetupTracker::Group
+  name: CENTEX Military Association of Atheists and Freethinkers
+  url: http://www.meetup.com/humanism-193/
+  membership:
+    '2013-02-03': '101'
+- !ruby/object:MeetupTracker::Group
+  name: Branson Freethinkers
+  url: http://www.meetup.com/BransonFreethinkers/
+  membership:
+    '2013-02-03': '99'
+- !ruby/object:MeetupTracker::Group
+  name: Camp Quest NorthWest
+  url: http://www.meetup.com/Camp-Quest-NorthWest/
+  membership:
+    '2013-02-03': '98'
+- !ruby/object:MeetupTracker::Group
+  name: Ethical Humanist Society of Long Island
+  url: http://www.meetup.com/Ethical-Humanist-Society-of-Long-Island/
+  membership:
+    '2013-02-03': '98'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of West Suburban Chicagoland
+  url: http://www.meetup.com/Humanists-of-West-Suburban-Chicagoland/
+  membership:
+    '2013-02-03': '98'
+- !ruby/object:MeetupTracker::Group
+  name: Kingwood Humble Atascocita Atheists
+  url: http://meetup.kha-atheists.org/
+  membership:
+    '2013-02-03': '98'
+- !ruby/object:MeetupTracker::Group
+  name: Center for Inquiry-Long Island
+  url: http://www.meetup.com/cfilongisland/
+  membership:
+    '2013-02-03': '97'
+- !ruby/object:MeetupTracker::Group
+  name: Panama City’s Atheist United (cat herders)
+  url: http://www.meetup.com/Panama-Citys/
+  membership:
+    '2013-02-03': '97'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Rogue Valley Freethinkers
+  url: http://www.meetup.com/cfi-rvf/
+  membership:
+    '2013-02-03': '96'
+- !ruby/object:MeetupTracker::Group
+  name: Vancouver Science & Religion Discussion Group
+  url: http://www.meetup.com/VancouverTalk/
+  membership:
+    '2013-02-03': '96'
+- !ruby/object:MeetupTracker::Group
+  name: CFI Salem Humanists
+  url: http://www.meetup.com/cfi-salem/
+  membership:
+    '2013-02-03': '95'
+- !ruby/object:MeetupTracker::Group
+  name: Nittany Freethought
+  url: http://www.meetup.com/NittanyFreethought/
+  membership:
+    '2013-02-03': '95'
+- !ruby/object:MeetupTracker::Group
+  name: The South Pasadena Atheist/Agnostic Meetup
+  url: http://www.meetup.com/atheists-682/
+  membership:
+    '2013-02-03': '95'
+- !ruby/object:MeetupTracker::Group
+  name: Upper Valley Humanists Association
+  url: http://www.meetup.com/Upper-Valley-Humanists-Association/
+  membership:
+    '2013-02-03': '95'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Society of WA
+  url: http://www.meetup.com/Humanist-Society-of-WA/
+  membership:
+    '2013-02-03': '94'
+- !ruby/object:MeetupTracker::Group
+  name: LASH - Lynchburg Area Secular Humanists
+  url: http://www.meetup.com/LASH-Lynchburg-Area-Secular-Humanists/
+  membership:
+    '2013-02-03': '94'
+- !ruby/object:MeetupTracker::Group
+  name: Ohlone College Psychology Department
+  url: http://www.meetup.com/OhlonePsychology/
+  membership:
+    '2013-02-03': '94'
+- !ruby/object:MeetupTracker::Group
+  name: Coastal Atheists and Secular Humanists (CASH)
+  url: http://www.meetup.com/Savannah-Skeptics-Society/
+  membership:
+    '2013-02-03': '93'
+- !ruby/object:MeetupTracker::Group
+  name: Straight, Gay, Black or White, Rainbow Bright Socials
+  url: http://www.meetup.com/Rainbow-Bright/
+  membership:
+    '2013-02-03': '93'
+- !ruby/object:MeetupTracker::Group
+  name: Southern Virginia Atheists
+  url: http://www.meetup.com/SouthernVirginiaAtheists/
+  membership:
+    '2013-02-03': '92'
+- !ruby/object:MeetupTracker::Group
+  name: Allied Non-Believers United- The Reality Union
+  url: http://www.meetup.com/secularhumanism-11/
+  membership:
+    '2013-02-03': '91'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of San Antonio
+  url: http://www.meetup.com/Humanists-of-San-Antonio/
+  membership:
+    '2013-02-03': '91'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinking Family Fellowship
+  url: http://www.meetup.com/Freethinking-Family-Fellowship/
+  membership:
+    '2013-02-03': '90'
+- !ruby/object:MeetupTracker::Group
+  name: Science of Consciousness
+  url: http://www.meetup.com/Science-of-Consciousness/
+  membership:
+    '2013-02-03': '90'
+- !ruby/object:MeetupTracker::Group
+  name: The Chicago Latino Atheists Meetup Group
+  url: http://www.meetup.com/The-Chicago-Latino-Atheists-Meetup-Group/
+  membership:
+    '2013-02-03': '90'
+- !ruby/object:MeetupTracker::Group
+  name: Valley Austrian Economists
+  url: http://www.meetup.com/Austrian-Economists/
+  membership:
+    '2013-02-03': '90'
+- !ruby/object:MeetupTracker::Group
+  name: The Parents of Non-Conformity
+  url: http://www.meetup.com/The-Parents-of-Non-Conformity/
+  membership:
+    '2013-02-03': '89'
+- !ruby/object:MeetupTracker::Group
+  name: WNC Atheists
+  url: http://www.meetup.com/WNC-Atheists/
+  membership:
+    '2013-02-03': '89'
+- !ruby/object:MeetupTracker::Group
+  name: Jolly Thirteen Club of New York and Central New Jersey
+  url: http://www.meetup.com/Jolly13/
+  membership:
+    '2013-02-03': '88'
+- !ruby/object:MeetupTracker::Group
+  name: Utah Freethought Society
+  url: http://www.meetup.com/utahfs/
+  membership:
+    '2013-02-03': '88'
+- !ruby/object:MeetupTracker::Group
+  name: The Baltimore Ethical Society Meetup
+  url: http://www.meetup.com/bmorethical/
+  membership:
+    '2013-02-03': '87'
+- !ruby/object:MeetupTracker::Group
+  name: High Wycombe Skeptics
+  url: http://www.meetup.com/high-wycombe-skeptics/
+  membership:
+    '2013-02-03': '86'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Massachusetts
+  url: http://www.meetup.com/Secular-Massachusetts/
+  membership:
+    '2013-02-03': '86'
+- !ruby/object:MeetupTracker::Group
+  name: Upstate Atheists
+  url: http://www.meetup.com/Upstate-Atheists/
+  membership:
+    '2013-02-03': '86'
+- !ruby/object:MeetupTracker::Group
+  name: Joplin Freethinkers
+  url: http://www.meetup.com/Joplin-Freethinkers/
+  membership:
+    '2013-02-03': '84'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinkers of Fort Smith
+  url: http://www.meetup.com/Fort-Smith-Freethinkers/
+  membership:
+    '2013-02-03': '81'
+- !ruby/object:MeetupTracker::Group
+  name: The Edinburgh Brights Meetup Group
+  url: http://www.meetup.com/Edinburgh-Brights/
+  membership:
+    '2013-02-03': '81'
+- !ruby/object:MeetupTracker::Group
+  name: Agnostics Anonymous Phoenixville
+  url: http://www.meetup.com/agnosticsanonymous/
+  membership:
+    '2013-02-03': '80'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinkers of Eastern Jackson County
+  url: http://www.meetup.com/kcfreethought/
+  membership:
+    '2013-02-03': '80'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of  Wisconsin
+  url: http://www.meetup.com/Humanists-of-Green-Bay-Area/
+  membership:
+    '2013-02-03': '80'
+- !ruby/object:MeetupTracker::Group
+  name: Pinellas County Skeptics
+  url: http://www.meetup.com/Pinellas-County-Skeptics/
+  membership:
+    '2013-02-03': '80'
+- !ruby/object:MeetupTracker::Group
+  name: Southern MN Atheists, Realists and Thinkers (SMART)
+  url: http://www.meetup.com/MNSMART/
+  membership:
+    '2013-02-03': '80'
+- !ruby/object:MeetupTracker::Group
+  name: Backyard Skeptics South Meetup Group
+  url: http://www.meetup.com/backyard-skeptics-south/
+  membership:
+    '2013-02-03': '79'
+- !ruby/object:MeetupTracker::Group
+  name: East County Heathens
+  url: http://www.meetup.com/East-County-Heathens/
+  membership:
+    '2013-02-03': '79'
+- !ruby/object:MeetupTracker::Group
+  name: Freedom From Religion Foundation Portland Area
+  url: http://www.meetup.com/Freedom-From-Religion-Foundation-Portland-Area/
+  membership:
+    '2013-02-03': '79'
+- !ruby/object:MeetupTracker::Group
+  name: Mountain State Freethinkers
+  url: http://www.meetup.com/Mountain-State-Freethinkers/
+  membership:
+    '2013-02-03': '79'
+- !ruby/object:MeetupTracker::Group
+  name: West Alabama Freethought Association
+  url: http://www.meetup.com/westalabamafreethought/
+  membership:
+    '2013-02-03': '79'
+- !ruby/object:MeetupTracker::Group
+  name: M*A*S*H Fort Campbell
+  url: http://www.meetup.com/Fort-Campbell-Freethinkers/
+  membership:
+    '2013-02-03': '78'
+- !ruby/object:MeetupTracker::Group
+  name: New Jersey Humanist Families Network
+  url: http://www.meetup.com/NJHNFamilies/
+  membership:
+    '2013-02-03': '78'
+- !ruby/object:MeetupTracker::Group
+  name: The Durango Atheists / Skeptics Meetup Group
+  url: http://www.meetup.com/The-Durango-Atheists-Skeptics-Meetup-Group/
+  membership:
+    '2013-02-03': '78'
+- !ruby/object:MeetupTracker::Group
+  name: Congregation for Humanistic Judaism - Los Angeles
+  url: http://www.meetup.com/secularhumanism-15/
+  membership:
+    '2013-02-03': '77'
+- !ruby/object:MeetupTracker::Group
+  name: Ethical Culture Society of Westchester
+  url: http://www.meetup.com/Ethical-Culture-Society-of-Westchester/
+  membership:
+    '2013-02-03': '77'
+- !ruby/object:MeetupTracker::Group
+  name: The Humanist Community
+  url: http://www.meetup.com/The-Humanist-Community/
+  membership:
+    '2013-02-03': '77'
+- !ruby/object:MeetupTracker::Group
+  name: The Seal Beach Atheists Meetup Group
+  url: http://www.meetup.com/The-Seal-Beach-Atheists-Meetup-Group/
+  membership:
+    '2013-02-03': '77'
+- !ruby/object:MeetupTracker::Group
+  name: Free Inquiry Group of Southwest Florida
+  url: http://www.meetup.com/http-swf-fig-ning-com/
+  membership:
+    '2013-02-03': '76'
+- !ruby/object:MeetupTracker::Group
+  name: Fun Loving Atheists of Maryland
+  url: http://www.meetup.com/Fun-Loving-Atheists-of-Maryland/
+  membership:
+    '2013-02-03': '76'
+- !ruby/object:MeetupTracker::Group
+  name: Parenting Beyond Religion
+  url: http://www.meetup.com/Parenting-Beyond-Religion/
+  membership:
+    '2013-02-03': '76'
+- !ruby/object:MeetupTracker::Group
+  name: Cincinnati Recovering from Religion™  Meetup Group
+  url: http://www.meetup.com/Cincinnati-Recovering-from-Religion-Meetup-Group/
+  membership:
+    '2013-02-03': '75'
+- !ruby/object:MeetupTracker::Group
+  name: Exploring New Ideas in Morality, Politics, and Culture NYC
+  url: http://www.meetup.com/newideasnyc/
+  membership:
+    '2013-02-03': '75'
+- !ruby/object:MeetupTracker::Group
+  name: Southwest Virginia Skeptics Society
+  url: http://www.meetup.com/Southwest-Virginia-Skeptics-Society/
+  membership:
+    '2013-02-03': '75'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists & Humanists of Florida-Lakeland
+  url: http://www.meetup.com/Lakeland-Atheists/
+  membership:
+    '2013-02-03': '74'
+- !ruby/object:MeetupTracker::Group
+  name: Atlanta Interfaith and Nonfaith Service Association
+  url: http://www.meetup.com/AINSAVolunteers/
+  membership:
+    '2013-02-03': '74'
+- !ruby/object:MeetupTracker::Group
+  name: Central Ohio Secular Parents
+  url: http://www.meetup.com/OhioSecularParents/
+  membership:
+    '2013-02-03': '74'
+- !ruby/object:MeetupTracker::Group
+  name: The Atheist Charitable Network (Los Angeles Branch)
+  url: http://www.meetup.com/ACN-LA/
+  membership:
+    '2013-02-03': '74'
+- !ruby/object:MeetupTracker::Group
+  name: Westchester Atheists
+  url: http://www.meetup.com/atheists-504/
+  membership:
+    '2013-02-03': '74'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Santa Cruz and Monterey Counties
+  url: http://www.meetup.com/Santa-Cruz-Atheists/
+  membership:
+    '2013-02-03': '73'
+- !ruby/object:MeetupTracker::Group
+  name: Johnson County Recovering from Religion™
+  url: http://www.meetup.com/Johnson-County-Recovering-from-Religion/
+  membership:
+    '2013-02-03': '73'
+- !ruby/object:MeetupTracker::Group
+  name: The York Brights Meetup Group
+  url: http://www.meetup.com/York-Brights/
+  membership:
+    '2013-02-03': '72'
+- !ruby/object:MeetupTracker::Group
+  name: Tri-State Freethinkers
+  url: http://www.meetup.com/Tri-State-Freethinkers/
+  membership:
+    '2013-02-03': '72'
+- !ruby/object:MeetupTracker::Group
+  name: Unitarian Universalists of Palo Alto
+  url: http://www.meetup.com/Unitarian-Universalists-of-Palo-Alto/
+  membership:
+    '2013-02-03': '72'
+- !ruby/object:MeetupTracker::Group
+  name: Hong Kong Atheists Society
+  url: http://www.meetup.com/HKAtheists/
+  membership:
+    '2013-02-03': '71'
+- !ruby/object:MeetupTracker::Group
+  name: Hot Springs Freethinkers
+  url: http://www.meetup.com/HotSpringsFreethinkers/
+  membership:
+    '2013-02-03': '71'
+- !ruby/object:MeetupTracker::Group
+  name: Northwest Arkansas Humanist Association
+  url: http://www.meetup.com/Northwest-Arkansas-Humanist-Association/
+  membership:
+    '2013-02-03': '71'
+- !ruby/object:MeetupTracker::Group
+  name: Omaha Atheist & Agnostic Parenting Group
+  url: http://www.meetup.com/OmahaAtheistParenting/
+  membership:
+    '2013-02-03': '71'
+- !ruby/object:MeetupTracker::Group
+  name: Chattanooga Freethought Association
+  url: http://www.meetup.com/Chattanooga-Freethought-Association/
+  membership:
+    '2013-02-03': '70'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists United Orange County
+  url: http://www.meetup.com/Atheists-United-Orange-County/
+  membership:
+    '2013-02-03': '69'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Fort Worth
+  url: http://www.meetup.com/Humanists-of-Fort-Worth/
+  membership:
+    '2013-02-03': '69'
+- !ruby/object:MeetupTracker::Group
+  name: Tampa Light-hearted Pagan Spirituality Group
+  url: http://www.meetup.com/Tampa-Light-hearted-Pagan-Spirituality-Group/
+  membership:
+    '2013-02-03': '69'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists in DC
+  url: http://www.meetup.com/Atheists-in-DC/
+  membership:
+    '2013-02-03': '68'
+- !ruby/object:MeetupTracker::Group
+  name: Richmond Area Free Thinkers
+  url: http://www.meetup.com/RichmondAreaFreeThinkers/
+  membership:
+    '2013-02-03': '68'
+- !ruby/object:MeetupTracker::Group
+  name: Whatcom Freethinkers
+  url: http://www.meetup.com/Whatcom-Freethinkers/
+  membership:
+    '2013-02-03': '68'
+- !ruby/object:MeetupTracker::Group
+  name: Metro East Atheist Network
+  url: http://www.meetup.com/meanil/
+  membership:
+    '2013-02-03': '67'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion™ Lee's Summit, MO
+  url: http://www.meetup.com/Recovering-from-Religion-LeesSummit/
+  membership:
+    '2013-02-03': '67'
+- !ruby/object:MeetupTracker::Group
+  name: Sarasota-Manatee Atheists and Secular Humanists (SMASH)
+  url: http://www.meetup.com/Sarasota-Manatee-Atheists-and-Secular-Humanists-SMASH/
+  membership:
+    '2013-02-03': '67'
+- !ruby/object:MeetupTracker::Group
+  name: The San Diego North County Brights Meetup Group
+  url: http://www.meetup.com/brights-26/
+  membership:
+    '2013-02-03': '67'
+- !ruby/object:MeetupTracker::Group
+  name: Virginia Freethought Renaissance (VFR)
+  url: http://www.meetup.com/vafr-org/
+  membership:
+    '2013-02-03': '67'
+- !ruby/object:MeetupTracker::Group
+  name: Pennsylvania Non-Believers Lewisburg
+  url: http://www.meetup.com/PANLEWISBURG/
+  membership:
+    '2013-02-03': '66'
+- !ruby/object:MeetupTracker::Group
+  name: Gathering of the Minds
+  url: http://www.meetup.com/gatheringoftheminds/
+  membership:
+    '2013-02-03': '65'
+- !ruby/object:MeetupTracker::Group
+  name: Less Wrong St. Louis
+  url: http://www.meetup.com/lesswrong/
+  membership:
+    '2013-02-03': '65'
+- !ruby/object:MeetupTracker::Group
+  name: Libertarian Freethinkers of KC
+  url: http://www.meetup.com/Libertarian-Freethinkers-of-KC/
+  membership:
+    '2013-02-03': '65'
+- !ruby/object:MeetupTracker::Group
+  name: Fun Loving Atheists of Northern Virginia
+  url: http://www.meetup.com/Fun-Loving-Atheists-of-Northern-Virginia/
+  membership:
+    '2013-02-03': '64'
+- !ruby/object:MeetupTracker::Group
+  name: High Country Atheists
+  url: http://www.meetup.com/High-Country-Atheists/
+  membership:
+    '2013-02-03': '64'
+- !ruby/object:MeetupTracker::Group
+  name: Living Skeptically in Berkeley
+  url: http://www.meetup.com/livingskeptically-berkeley/
+  membership:
+    '2013-02-03': '64'
+- !ruby/object:MeetupTracker::Group
+  name: Triad Coalition of Reason
+  url: http://www.meetup.com/Triad-Coalition-of-Reason/
+  membership:
+    '2013-02-03': '64'
+- !ruby/object:MeetupTracker::Group
+  name: Central Alberta Skeptics
+  url: http://www.meetup.com/Central-Alberta-Skeptics/
+  membership:
+    '2013-02-03': '62'
+- !ruby/object:MeetupTracker::Group
+  name: Elizabeth City Freethinkers
+  url: http://www.meetup.com/Elizabeth-City-Freethinkers/
+  membership:
+    '2013-02-03': '62'
+- !ruby/object:MeetupTracker::Group
+  name: Golden Triangle Freethinkers
+  url: http://www.meetup.com/Golden-Triangle-Freethinkers/
+  membership:
+    '2013-02-03': '62'
+- !ruby/object:MeetupTracker::Group
+  name: Skeptical Religion Study Group
+  url: http://www.meetup.com/religion-skeptics-kc/
+  membership:
+    '2013-02-03': '62'
+- !ruby/object:MeetupTracker::Group
+  name: Worcester Atheists
+  url: http://www.meetup.com/atheists-488/
+  membership:
+    '2013-02-03': '62'
+- !ruby/object:MeetupTracker::Group
+  name: Black Hills Freethinkers
+  url: http://www.meetup.com/Black-Hills-Freethinkers/
+  membership:
+    '2013-02-03': '61'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Association of Northern Michigan
+  url: http://www.meetup.com/Freethought-Association-of-Northern-Michigan/
+  membership:
+    '2013-02-03': '61'
+- !ruby/object:MeetupTracker::Group
+  name: Spalding Freethought Society
+  url: http://www.meetup.com/Spalding-Freethought-Society/
+  membership:
+    '2013-02-03': '61'
+- !ruby/object:MeetupTracker::Group
+  name: Hispanic American Freethinkers (HAFree)
+  url: http://www.meetup.com/HAFree/
+  membership:
+    '2013-02-03': '60'
+- !ruby/object:MeetupTracker::Group
+  name: Lawton Area Secular Society (LASS)
+  url: http://www.meetup.com/Lawton-Area-Secular-Society/
+  membership:
+    '2013-02-03': '60'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Florida - Tampabay
+  url: http://www.meetup.com/Atheists-of-Florida-Tampabay/
+  membership:
+    '2013-02-03': '59'
+- !ruby/object:MeetupTracker::Group
+  name: Philosophical Naturalists
+  url: http://www.meetup.com/Philosophical-Naturalists/
+  membership:
+    '2013-02-03': '59'
+- !ruby/object:MeetupTracker::Group
+  name: The Collective
+  url: http://www.meetup.com/The-Collective/
+  membership:
+    '2013-02-03': '59'
+- !ruby/object:MeetupTracker::Group
+  name: Etowah County Rational Alliance (ECRA)
+  url: http://www.meetup.com/etowahrationalists/
+  membership:
+    '2013-02-03': '58'
+- !ruby/object:MeetupTracker::Group
+  name: Sedona/Verde Valley Secular Freethinkers
+  url: http://www.meetup.com/Sedona-Freethinkers/
+  membership:
+    '2013-02-03': '58'
+- !ruby/object:MeetupTracker::Group
+  name: Benton Atheist and Skeptic Society
+  url: http://www.meetup.com/ARBASS/
+  membership:
+    '2013-02-03': '57'
+- !ruby/object:MeetupTracker::Group
+  name: Cannon Falls Freethinkers
+  url: http://www.meetup.com/CannonFallsFreethinkers/
+  membership:
+    '2013-02-03': '57'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering From Religion - Chicagoland
+  url: http://www.meetup.com/RecoveringFromReligionChicago/
+  membership:
+    '2013-02-03': '57'
+- !ruby/object:MeetupTracker::Group
+  name: Saskatoon Secular Family Network
+  url: http://www.meetup.com/saskatoon-secular-family-network/
+  membership:
+    '2013-02-03': '57'
+- !ruby/object:MeetupTracker::Group
+  name: The Edinburgh Christian/Atheist Bible Study Group
+  url: http://www.meetup.com/Christian-Atheist-Bible-Study-Group/
+  membership:
+    '2013-02-03': '57'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Idaho
+  url: http://www.meetup.com/Humanists-of-Idaho/
+  membership:
+    '2013-02-03': '56'
+- !ruby/object:MeetupTracker::Group
+  name: The Ask an Atheist Meetup Group
+  url: http://www.meetup.com/The-Ask-an-Atheist-Meetup-Group/
+  membership:
+    '2013-02-03': '56'
+- !ruby/object:MeetupTracker::Group
+  name: East London Humanists
+  url: http://www.meetup.com/East-London-Humanists/
+  membership:
+    '2013-02-03': '55'
+- !ruby/object:MeetupTracker::Group
+  name: Las Vegas  Atheist Moms
+  url: http://www.meetup.com/Las-Vegas-ethical-atheist-moms/
+  membership:
+    '2013-02-03': '55'
+- !ruby/object:MeetupTracker::Group
+  name: South Sound Secular Parenting
+  url: http://www.meetup.com/South-Sound-Secular-Parents/
+  membership:
+    '2013-02-03': '55'
+- !ruby/object:MeetupTracker::Group
+  name: The Los Alamos Community of Atheists
+  url: http://www.meetup.com/The-Los-Alamos-Community-of-Atheists/
+  membership:
+    '2013-02-03': '55'
+- !ruby/object:MeetupTracker::Group
+  name: Black Skeptics Los Angeles
+  url: http://www.meetup.com/Black-Skeptics-Los-Angeles/
+  membership:
+    '2013-02-03': '54'
+- !ruby/object:MeetupTracker::Group
+  name: Burlington Atheists Meetup Group
+  url: http://www.meetup.com/comingout/
+  membership:
+    '2013-02-03': '54'
+- !ruby/object:MeetupTracker::Group
+  name: Central Florida Freethought Community
+  url: http://www.meetup.com/CFLFreethought/
+  membership:
+    '2013-02-03': '54'
+- !ruby/object:MeetupTracker::Group
+  name: Central Ohio United Non-Theists (COUNT)
+  url: http://www.meetup.com/Central-Ohio-United-Non-Theists-COUNT/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinkers for Fun
+  url: http://www.meetup.com/Freethinkers-for-Fun/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Families of Chicagoland
+  url: http://www.meetup.com/FreethoughtFamiliesofChicagoland/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of North Puget Sound
+  url: http://www.meetup.com/HumanistsNPS/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: Mid Ohio Atheists
+  url: http://www.meetup.com/Mid-Ohio-Atheists/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: NCW Freethinkers
+  url: http://www.meetup.com/NCW-Freethinkers/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: South County Freethinkers
+  url: http://www.meetup.com/South-County-Freethinkers/
+  membership:
+    '2013-02-03': '53'
+- !ruby/object:MeetupTracker::Group
+  name: Arguing Philosophy
+  url: http://www.meetup.com/Arguing-Philosophy/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: Fredericksburg Parenting Beyond Belief
+  url: http://www.meetup.com/Fredericksburg-Parenting-Beyond-Belief/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: Kansas City Free Thought - Wyandotte & Leavenworth County
+  url: http://www.meetup.com/WyandotteAndLeavenworthCountyFreeThinkers/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: Minority Atheists of Michigan (M.A.M.)
+  url: http://www.meetup.com/Minority-Atheists-of-MI/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: Muslim-ish of NYC
+  url: http://www.meetup.com/Muslim-ish/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: Orlando Humanists & Atheists (FREE)
+  url: http://www.meetup.com/Orlando-Humanists-Atheists/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: WNC Humanists
+  url: http://www.meetup.com/WNC-Humanists/
+  membership:
+    '2013-02-03': '52'
+- !ruby/object:MeetupTracker::Group
+  name: Cookeville Atheists & Agnostics
+  url: http://www.meetup.com/Cookeville-Atheists-Agnostics/
+  membership:
+    '2013-02-03': '51'
+- !ruby/object:MeetupTracker::Group
+  name: Elmira Area Humanists
+  url: http://www.meetup.com/Elmira-Area-Humanists/
+  membership:
+    '2013-02-03': '51'
+- !ruby/object:MeetupTracker::Group
+  name: Monterey County Atheists
+  url: http://www.meetup.com/mcatheists/
+  membership:
+    '2013-02-03': '51'
+- !ruby/object:MeetupTracker::Group
+  name: The Chicago Freethought Project
+  url: http://www.meetup.com/thechicagofreethoughtproject/
+  membership:
+    '2013-02-03': '51'
+- !ruby/object:MeetupTracker::Group
+  name: Leeds Humanists
+  url: http://www.meetup.com/Humanist-Society-of-West-Yorkshire/
+  membership:
+    '2013-02-03': '50'
+- !ruby/object:MeetupTracker::Group
+  name: Pikes Peak Atheist Parents
+  url: http://www.meetup.com/Pikes-Peak-Atheist-Parents/
+  membership:
+    '2013-02-03': '50'
+- !ruby/object:MeetupTracker::Group
+  name: The Lethbridge Freethinkers Society
+  url: http://www.meetup.com/Lethbridge-Freethinkers/
+  membership:
+    '2013-02-03': '50'
+- !ruby/object:MeetupTracker::Group
+  name: ATHEIST
+  url: http://www.meetup.com/ATHEIST-IN-MADISON/
+  membership:
+    '2013-02-03': '49'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinkers of Lee's Summit, MO
+  url: http://www.meetup.com/Freethinkers-Lees-Summit-MO/
+  membership:
+    '2013-02-03': '49'
+- !ruby/object:MeetupTracker::Group
+  name: Olive Branch Atheists
+  url: http://www.meetup.com/Olive-Branch-Atheists/
+  membership:
+    '2013-02-03': '49'
+- !ruby/object:MeetupTracker::Group
+  name: Reasonable Women
+  url: http://www.meetup.com/Reasonable-Women/
+  membership:
+    '2013-02-03': '49'
+- !ruby/object:MeetupTracker::Group
+  name: Sydney Epicurus Philosophy Garden
+  url: http://www.meetup.com/Sydney-Epicurus-Philosophy-Garden/
+  membership:
+    '2013-02-03': '49'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Families of San Antonio
+  url: http://www.meetup.com/Atheist-Families-of-San-Antonio/
+  membership:
+    '2013-02-03': '48'
+- !ruby/object:MeetupTracker::Group
+  name: Billings Association of Humanists
+  url: http://www.meetup.com/Billings-Humanists/
+  membership:
+    '2013-02-03': '48'
+- !ruby/object:MeetupTracker::Group
+  name: North Shore New Atheists
+  url: http://www.meetup.com/North-Shore-New-Atheists/
+  membership:
+    '2013-02-03': '48'
+- !ruby/object:MeetupTracker::Group
+  name: Shenandoah Valley Atheist and Secular Humanist
+  url: http://www.meetup.com/SVAASH/
+  membership:
+    '2013-02-03': '48'
+- !ruby/object:MeetupTracker::Group
+  name: St. Joseph Skeptics
+  url: http://www.meetup.com/StJosephAtheistsAndAgnostics/
+  membership:
+    '2013-02-03': '47'
+- !ruby/object:MeetupTracker::Group
+  name: Tampa Area Atheist Libertarians
+  url: http://www.meetup.com/Tampa-Area-Atheists-Libertarians/
+  membership:
+    '2013-02-03': '47'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Community at Stanford
+  url: http://www.meetup.com/Humanist-Community-at-Stanford/
+  membership:
+    '2013-02-03': '46'
+- !ruby/object:MeetupTracker::Group
+  name: National Atheist Party Washington State
+  url: http://www.meetup.com/National-Atheist-Party-Washington-State/
+  membership:
+    '2013-02-03': '46'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion™ - Columbus Chapter
+  url: http://www.meetup.com/RRColumbus/
+  membership:
+    '2013-02-03': '46'
+- !ruby/object:MeetupTracker::Group
+  name: SLSC - Secular Ladies' Social Club
+  url: http://www.meetup.com/NEOSLSC/
+  membership:
+    '2013-02-03': '46'
+- !ruby/object:MeetupTracker::Group
+  name: South Florida Atheist Families
+  url: http://www.meetup.com/SoFlaAF/
+  membership:
+    '2013-02-03': '46'
+- !ruby/object:MeetupTracker::Group
+  name: Humanity on Call
+  url: http://www.meetup.com/oncall/
+  membership:
+    '2013-02-03': '45'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Coalition for Hawaii
+  url: http://www.meetup.com/SecularHI/
+  membership:
+    '2013-02-03': '45'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Humanist Families of North County
+  url: http://www.meetup.com/Secular-Humanist-Families-of-North-County/
+  membership:
+    '2013-02-03': '45'
+- !ruby/object:MeetupTracker::Group
+  name: Temecula Valley Atheists
+  url: http://www.meetup.com/Temecula-Valley-Atheists/
+  membership:
+    '2013-02-03': '45'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists and Humanists of Florida-Cape Coral
+  url: http://www.meetup.com/Cape-Coral-Atheists/
+  membership:
+    '2013-02-03': '44'
+- !ruby/object:MeetupTracker::Group
+  name: Kokomo Freethinkers
+  url: http://www.meetup.com/Kokomo-Freethinkers/
+  membership:
+    '2013-02-03': '44'
+- !ruby/object:MeetupTracker::Group
+  name: Pueblo Humanist Directions
+  url: http://www.meetup.com/Pueblo-Humanist-Directions/
+  membership:
+    '2013-02-03': '44'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion - Los Angeles
+  url: http://www.meetup.com/Recovering-from-Religion-Los-Angeles/
+  membership:
+    '2013-02-03': '43'
+- !ruby/object:MeetupTracker::Group
+  name: Women Atheists and Freethinkers
+  url: http://www.meetup.com/Women-Atheists-and-Freethinkers/
+  membership:
+    '2013-02-03': '43'
+- !ruby/object:MeetupTracker::Group
+  name: Topics in Evolution
+  url: http://www.meetup.com/Topics-in-Evolution/
+  membership:
+    '2013-02-03': '42'
+- !ruby/object:MeetupTracker::Group
+  name: Launceston Skeptics
+  url: http://meetup.launcestonskeptics.com/
+  membership:
+    '2013-02-03': '40'
+- !ruby/object:MeetupTracker::Group
+  name: No-Non-Secs!  Secular Students and Young Pro's of SATX
+  url: http://www.meetup.com/NoNonSecs/
+  membership:
+    '2013-02-03': '40'
+- !ruby/object:MeetupTracker::Group
+  name: Ateos Unidos
+  url: http://www.meetup.com/Ateos-Unidos/
+  membership:
+    '2013-02-03': '39'
+- !ruby/object:MeetupTracker::Group
+  name: Denver Humanist Book Group
+  url: http://www.meetup.com/Denver-Humanist-Book-Group/
+  membership:
+    '2013-02-03': '39'
+- !ruby/object:MeetupTracker::Group
+  name: Improve critical thinking using the Trivium
+  url: http://www.meetup.com/trivium/
+  membership:
+    '2013-02-03': '39'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Florida - Port Richey
+  url: http://www.meetup.com/Port-Richey-Atheists/
+  membership:
+    '2013-02-03': '38'
+- !ruby/object:MeetupTracker::Group
+  name: Skeptics in the Pub New Westminster
+  url: http://www.meetup.com/Skeptics-in-the-Pub-NewWestminster/
+  membership:
+    '2013-02-03': '38'
+- !ruby/object:MeetupTracker::Group
+  name: Akron Atheist
+  url: http://www.meetup.com/Akron-Atheist/
+  membership:
+    '2013-02-03': '37'
+- !ruby/object:MeetupTracker::Group
+  name: Backyard Skeptics Arcadia
+  url: http://www.meetup.com/Backyard-Skeptics-Arcadia/
+  membership:
+    '2013-02-03': '37'
+- !ruby/object:MeetupTracker::Group
+  name: IL/WI Stateline Atheist Society
+  url: http://www.meetup.com/IL-WI-Stateline-Atheist-Society/
+  membership:
+    '2013-02-03': '37'
+- !ruby/object:MeetupTracker::Group
+  name: LGBTQ Humanist Council of Baltimore
+  url: http://www.meetup.com/LGBTQ-Humanist-Council-of-Baltimore/
+  membership:
+    '2013-02-03': '37'
+- !ruby/object:MeetupTracker::Group
+  name: Spiritual but not crazy- Skeptical but not atheist
+  url: http://www.meetup.com/Spiritual-but-not-crazy-Skeptical-but-not-atheist/
+  membership:
+    '2013-02-03': '37'
+- !ruby/object:MeetupTracker::Group
+  name: South Kansas City Freethinkers
+  url: http://www.meetup.com/Kansas-City-Freethinkers/
+  membership:
+    '2013-02-03': '36'
+- !ruby/object:MeetupTracker::Group
+  name: Treasure Coast Heathens, Outcasts & Malcontents
+  url: http://www.meetup.com/Stuart-Freethinkers/
+  membership:
+    '2013-02-03': '36'
+- !ruby/object:MeetupTracker::Group
+  name: African American Humanist Society
+  url: http://www.meetup.com/African-American-Humanist-Society/
+  membership:
+    '2013-02-03': '35'
+- !ruby/object:MeetupTracker::Group
+  name: Gloucester County Humanists
+  url: http://www.meetup.com/Gloucester-County-Humanists/
+  membership:
+    '2013-02-03': '35'
+- !ruby/object:MeetupTracker::Group
+  name: Conservative Skeptics of Fredericksburg
+  url: http://www.meetup.com/Conservative-Skeptics-Fredericksburg/
+  membership:
+    '2013-02-03': '34'
+- !ruby/object:MeetupTracker::Group
+  name: Northern Ex-Muslim Meetup Group
+  url: http://www.meetup.com/Ex-Muslim-North/
+  membership:
+    '2013-02-03': '34'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion - Toledo Area
+  url: http://www.meetup.com/Recovering-from-Religion-Toledo-Area/
+  membership:
+    '2013-02-03': '34'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Organizations for Sobriety of Greater Kansas City
+  url: http://www.meetup.com/SOS-Kansas-City/
+  membership:
+    '2013-02-03': '34'
+- !ruby/object:MeetupTracker::Group
+  name: Peninsula Atheists
+  url: http://www.meetup.com/Peninsula-Atheists/
+  membership:
+    '2013-02-03': '33'
+- !ruby/object:MeetupTracker::Group
+  name: Washington Ethical Society Meetups
+  url: http://www.meetup.com/Washington-Ethical-Society-Meetups/
+  membership:
+    '2013-02-03': '33'
+- !ruby/object:MeetupTracker::Group
+  name: Eastern Ohio Freethinkers
+  url: http://www.meetup.com/Eastern-Ohio-Freethinkers/
+  membership:
+    '2013-02-03': '32'
+- !ruby/object:MeetupTracker::Group
+  name: Grand Rapids Atheists and Freethinkers (GRAF)
+  url: http://www.meetup.com/Grand-Rapids-Freethinkers/
+  membership:
+    '2013-02-03': '32'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering Religionists
+  url: http://www.meetup.com/RecoveringReligionistsSpringfield/
+  membership:
+    '2013-02-03': '32'
+- !ruby/object:MeetupTracker::Group
+  name: SolSeed
+  url: http://www.meetup.com/SolSeed/
+  membership:
+    '2013-02-03': '32'
+- !ruby/object:MeetupTracker::Group
+  name: Tri-Cities Happy Atheists
+  url: http://www.meetup.com/Tri-Cities-Happy-Atheists/
+  membership:
+    '2013-02-03': '32'
+- !ruby/object:MeetupTracker::Group
+  name: Whidbey Island Freethinkers
+  url: http://www.meetup.com/Whidbey-Island-Secularists/
+  membership:
+    '2013-02-03': '32'
+- !ruby/object:MeetupTracker::Group
+  name: Black Nonbelievers of  Metro Orlando
+  url: http://www.meetup.com/Black-Nonbelievers-of-Metro-Orlando/
+  membership:
+    '2013-02-03': '31'
+- !ruby/object:MeetupTracker::Group
+  name: CANADA'S NATIONAL HUMANIST MEETUP SITE
+  url: http://www.meetup.com/CanadianNationalHumanistSite/
+  membership:
+    '2013-02-03': '31'
+- !ruby/object:MeetupTracker::Group
+  name: Santa Cruz Brights
+  url: http://www.meetup.com/Santa-Cruz-Brights/
+  membership:
+    '2013-02-03': '31'
+- !ruby/object:MeetupTracker::Group
+  name: Beyond the Bull
+  url: http://www.meetup.com/Beyond-the-Bull/
+  membership:
+    '2013-02-03': '30'
+- !ruby/object:MeetupTracker::Group
+  name: London Black Atheists
+  url: http://www.meetup.com/London-Black-Atheists/
+  membership:
+    '2013-02-03': '30'
+- !ruby/object:MeetupTracker::Group
+  name: San Diego Military Association of Atheists & Freethinkers
+  url: http://www.meetup.com/San-Diego-MAAF/
+  membership:
+    '2013-02-03': '30'
+- !ruby/object:MeetupTracker::Group
+  name: COCORE
+  url: http://www.meetup.com/COCORE/
+  membership:
+    '2013-02-03': '29'
+- !ruby/object:MeetupTracker::Group
+  name: Michiana Skeptics
+  url: http://www.meetup.com/Michiana-Skeptics/
+  membership:
+    '2013-02-03': '29'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Freethinkers of Summit County
+  url: http://www.meetup.com/Summit-County-Humanists-and-Freethinkers/
+  membership:
+    '2013-02-03': '29'
+- !ruby/object:MeetupTracker::Group
+  name: Southern Maryland Skeptics and Freethinkers
+  url: http://www.meetup.com/SOMD-Skeptics-and-Freethinkers/
+  membership:
+    '2013-02-03': '29'
+- !ruby/object:MeetupTracker::Group
+  name: Black FreeThinkers of KC
+  url: http://www.meetup.com/Black-FreeThinkers-of-KC/
+  membership:
+    '2013-02-03': '28'
+- !ruby/object:MeetupTracker::Group
+  name: Gay Atheists of Washington, D.C.  (GAWD)
+  url: http://www.meetup.com/GAWDonline/
+  membership:
+    '2013-02-03': '28'
+- !ruby/object:MeetupTracker::Group
+  name: National Atheist Party of Tennessee
+  url: http://www.meetup.com/National-Atheist-Party-of-Tennessee/
+  membership:
+    '2013-02-03': '28'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Parents of Asheville North Carolina (SPANC)
+  url: http://www.meetup.com/asheville-secular-parents/
+  membership:
+    '2013-02-03': '28'
+- !ruby/object:MeetupTracker::Group
+  name: The Cambridge Brights Meetup Group
+  url: http://www.meetup.com/cambridgebrights/
+  membership:
+    '2013-02-03': '28'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Discourse
+  url: http://www.meetup.com/Atheist-Discourse/
+  membership:
+    '2013-02-03': '27'
+- !ruby/object:MeetupTracker::Group
+  name: Black Secular Society
+  url: http://www.meetup.com/Black-Secular-Society/
+  membership:
+    '2013-02-03': '27'
+- !ruby/object:MeetupTracker::Group
+  name: Salisbury Atheists
+  url: http://www.meetup.com/Salisbury-Atheists/
+  membership:
+    '2013-02-03': '27'
+- !ruby/object:MeetupTracker::Group
+  name: Brooklyn Atheists' Roundtable
+  url: http://www.meetup.com/Brooklyn-Atheists-Roundtable/
+  membership:
+    '2013-02-03': '26'
+- !ruby/object:MeetupTracker::Group
+  name: Exploring Christianity & Atheism (Princeton Area)
+  url: http://www.meetup.com/Exploring-Christianity-Atheism-Princeton-Area/
+  membership:
+    '2013-02-03': '26'
+- !ruby/object:MeetupTracker::Group
+  name: Faithless Campers
+  url: http://www.meetup.com/Faithless-Campers/
+  membership:
+    '2013-02-03': '26'
+- !ruby/object:MeetupTracker::Group
+  name: Sceptics Friendship Group
+  url: http://www.meetup.com/Skeptics-friendship-group/
+  membership:
+    '2013-02-03': '26'
+- !ruby/object:MeetupTracker::Group
+  name: Vancouver Island Humanists
+  url: http://www.meetup.com/Vancouver-Island-Humanists/
+  membership:
+    '2013-02-03': '26'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist and Free Thinking Moms of Middle Tennessee
+  url: http://www.meetup.com/Atheist-and-Free-Thinking-Moms-of-Middle-Tennessee/
+  membership:
+    '2013-02-03': '25'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist/Agnostic Parents of Maple Valley
+  url: http://www.meetup.com/Atheist-Agnostic-Parents-of-Maple-Valley/
+  membership:
+    '2013-02-03': '25'
+- !ruby/object:MeetupTracker::Group
+  name: Hastings Area Hellbound Atheists, Humanists, and Agnostics
+  url: http://www.meetup.com/Hastings-Area-Hellbound-Atheists-Humanists-and-Agnostics/
+  membership:
+    '2013-02-03': '25'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists & Freethinkers of New Bern
+  url: http://www.meetup.com/New-Bern-Humanists/
+  membership:
+    '2013-02-03': '25'
+- !ruby/object:MeetupTracker::Group
+  name: Jonesboro Freethought Alliance
+  url: http://www.meetup.com/Jonesboro-Freethought/
+  membership:
+    '2013-02-03': '25'
+- !ruby/object:MeetupTracker::Group
+  name: Baltimore Parenting Beyond Belief
+  url: http://www.meetup.com/BaltimorePBB/
+  membership:
+    '2013-02-03': '24'
+- !ruby/object:MeetupTracker::Group
+  name: DC - Baltimore Atheists/Agnostics Doing Good Works
+  url: http://www.meetup.com/DC-Baltimore-Athiests-Agnostics-Doing-Good-Works/
+  membership:
+    '2013-02-03': '24'
+- !ruby/object:MeetupTracker::Group
+  name: Harford County Secular Humanist Group
+  url: http://www.meetup.com/Harford-County-Secular-Humanist-Group/
+  membership:
+    '2013-02-03': '24'
+- !ruby/object:MeetupTracker::Group
+  name: Northern Ohio Freethought Society
+  url: http://www.meetup.com/Northern-Ohio-Freethought-Society/
+  membership:
+    '2013-02-03': '24'
+- !ruby/object:MeetupTracker::Group
+  name: Orlando Freethought Exchange
+  url: http://www.meetup.com/OrlandoFreethoughtExchange/
+  membership:
+    '2013-02-03': '24'
+- !ruby/object:MeetupTracker::Group
+  name: Barrie Atheists
+  url: http://www.meetup.com/Barrie-Atheists/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: Biblethon
+  url: http://www.meetup.com/Biblethon/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: Free Thought Exchange Leadership Team
+  url: http://www.meetup.com/Freethoughtexchange/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: Harrisburg Area Humanist Association
+  url: http://www.meetup.com/HarrisburgHumanist/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: North Side Riders and Adventurers
+  url: http://www.meetup.com/North-Side/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: Sierra Vista Freethinkers
+  url: http://www.meetup.com/Sierra-Vista-Freethinkers/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: West DFW Brights
+  url: http://www.meetup.com/West-DFW-Brights/
+  membership:
+    '2013-02-03': '23'
+- !ruby/object:MeetupTracker::Group
+  name: Guardians against the Tyranny of Fanaticism
+  url: http://www.meetup.com/Guardians-against-the-Tyranny-of-Fanaticism/
+  membership:
+    '2013-02-03': '22'
+- !ruby/object:MeetupTracker::Group
+  name: Olympia Atheists
+  url: http://www.meetup.com/Olympia-Atheists/
+  membership:
+    '2013-02-03': '21'
+- !ruby/object:MeetupTracker::Group
+  name: Oregon Libeqrats' Party
+  url: http://www.meetup.com/Oregon-Libeqrats/
+  membership:
+    '2013-02-03': '21'
+- !ruby/object:MeetupTracker::Group
+  name: San Diego Philosophy Dinners
+  url: http://www.meetup.com/sandiegophilosophydinners/
+  membership:
+    '2013-02-03': '21'
+- !ruby/object:MeetupTracker::Group
+  name: The Calgary Secular Church
+  url: http://www.meetup.com/Calgary-Secular-Church/
+  membership:
+    '2013-02-03': '21'
+- !ruby/object:MeetupTracker::Group
+  name: The Santa Fe Community of Atheists
+  url: http://www.meetup.com/The-Santa-Fe-Community-of-Atheists/
+  membership:
+    '2013-02-03': '21'
+- !ruby/object:MeetupTracker::Group
+  name: Animal Loving Agnostic Dorks of SGV
+  url: http://www.meetup.com/Animal-Loving-Agnostic-Dorks-of-SGV/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: CFI South Coast Skeptics
+  url: http://www.meetup.com/cfi-scs/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: Iowa Skeptics
+  url: http://www.meetup.com/Iowa-Skeptics/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: Northshore Freethinkers
+  url: http://www.meetup.com/Northshore-Freethinkers/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion DFW
+  url: http://www.meetup.com/Recovering-from-Religion-DFW/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: San Antonio Secular Students-SASS
+  url: http://www.meetup.com/SanAntonioSecularStudents-SASS/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: The Church of the Flying Spaghetti Monster
+  url: http://www.meetup.com/CFSMYokosuka/
+  membership:
+    '2013-02-03': '20'
+- !ruby/object:MeetupTracker::Group
+  name: Abilene Atheist Community
+  url: http://www.meetup.com/abileneatheistcommunity/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Gainesville Area Humanists
+  url: http://www.meetup.com/Gainesville-Area-Humanists/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Harrisburg Nonbelievers Summer MeetUp
+  url: http://www.meetup.com/Harrisburg-Nonbelievers-Summer-MeetUp/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Heber Springs FreeThinkers Society
+  url: http://www.meetup.com/Heber-Springs-FreeThinkers-Society/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Hudson Valley Atheists
+  url: http://www.meetup.com/Hudson-Valley-Atheists/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Society of Monroe - Michigan
+  url: http://www.meetup.com/HumanistSocietyMonroeMI/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Northwest Free-thought Alliance
+  url: http://www.meetup.com/Northwest-Free-thought-Alliance-portland/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Student Alliance at UCA
+  url: http://www.meetup.com/SSAatUCA/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: The Secular Student Alliance at The University of Akron
+  url: http://www.meetup.com/The-Secular-Student-Alliance-at-The-University-of-Akron/
+  membership:
+    '2013-02-03': '19'
+- !ruby/object:MeetupTracker::Group
+  name: Newity
+  url: http://www.meetup.com/Newity/
+  membership:
+    '2013-02-03': '18'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Texoma
+  url: http://www.meetup.com/atheist-community-of-texoma/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist vs Theist Debates Columbus
+  url: http://www.meetup.com/Atheistdebates/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: Brockville Skeptics
+  url: http://www.meetup.com/Brockville-Skeptics/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: LA Brights
+  url: http://www.meetup.com/LA-Brights/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: Lancaster Atheists United
+  url: http://www.meetup.com/Lancaster-Atheists-United/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: Nonreligious Community of Cascadia
+  url: http://www.meetup.com/cascadia-nrcoc/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: Northfield Freethinkers
+  url: http://www.meetup.com/Northfield-Freethinkers/
+  membership:
+    '2013-02-03': '17'
+- !ruby/object:MeetupTracker::Group
+  name: Albany Georgia Atheists (AGA)
+  url: http://www.meetup.com/Albany-Georgia-Atheists-AGA/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Costa del Sol Freethinkers
+  url: http://www.meetup.com/Costa-del-Sol-Freethinkers/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Free Thinkers Social
+  url: http://www.meetup.com/Free-Thinkers-Social/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Humanists of Marysville and Everett
+  url: http://www.meetup.com/Humanists-of-Marysville-and-Everett/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Milwaukee Open Dialog on Christianity Meetup
+  url: http://www.meetup.com/questions/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Northeast Ohio Humanists
+  url: http://www.meetup.com/Northeast-Ohio-Humanists/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Oxford Humanists & Freethinkers
+  url: http://www.meetup.com/Oxford-Humanists-Freethinkers/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Santa Barbara Secular Meetup Group
+  url: http://www.meetup.com/SB-Secular-Meetup-Group/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Tally Women Friends-Connecting w/ Open Minded Women(Age40+)
+  url: http://www.meetup.com/women-1398/
+  membership:
+    '2013-02-03': '16'
+- !ruby/object:MeetupTracker::Group
+  name: Asimov Humanists of Montgomery County
+  url: http://www.meetup.com/asimovhumanists/
+  membership:
+    '2013-02-03': '15'
+- !ruby/object:MeetupTracker::Group
+  name: Freethought Oasis
+  url: http://www.meetup.com/FreethoughtOasis/
+  membership:
+    '2013-02-03': '15'
+- !ruby/object:MeetupTracker::Group
+  name: Kingman/Lake Havasu City Freethinkers
+  url: http://www.meetup.com/Kingman-Freethinkers/
+  membership:
+    '2013-02-03': '15'
+- !ruby/object:MeetupTracker::Group
+  name: Tinker Military Association of Atheists and Freethinkers
+  url: http://www.meetup.com/tinkermaaf/
+  membership:
+    '2013-02-03': '15'
+- !ruby/object:MeetupTracker::Group
+  name: Voices of Reason
+  url: http://www.meetup.com/VoicesOfReason/
+  membership:
+    '2013-02-03': '15'
+- !ruby/object:MeetupTracker::Group
+  name: CSRA Non-Theists + Volunteers Beyond Belief
+  url: http://www.meetup.com/CSRANTVBB/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: North Bay Military Atheists and Secular Humanists
+  url: http://www.meetup.com/North-Bay-MASH/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: Occupy Dialogue
+  url: http://www.meetup.com/Occupy-Dialogue/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: Pennsylvania Nonbelievers
+  url: http://meetup.panonbelievers.org/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'Recovering from Religion: Tucson Chapter'
+  url: http://www.meetup.com/Recovering-from-Religion-Tucson-Chapter/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: Scientific Apologetics Class for Christians and Skeptics
+  url: http://www.meetup.com/Scientific-Apologetics-for-Christians-and-Skeptics/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Party of Australia (WA Division)
+  url: http://www.meetup.com/Secular-Party-of-Australia-WA-Division/
+  membership:
+    '2013-02-03': '14'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Florida - Tampabay - Private
+  url: http://www.meetup.com/Atheists-of-Florida-Tampabay-Private/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Cenla Atheists Meetup Group
+  url: http://www.meetup.com/cenla-atheists/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Murray Freethought Society
+  url: http://www.meetup.com/murray-freethought/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering From Religion Kent OH
+  url: http://www.meetup.com/Recovering-From-Religion-Kent-OH/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion Wichita Falls
+  url: http://www.meetup.com/RecoveringfromReligion-WichitaFalls/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Humanists of Westchester
+  url: http://www.meetup.com/Secular-Humanists-of-Westchester/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Tallahassee Objectivism Meetup
+  url: http://www.meetup.com/Tallahassee-Objectivism-Meetup/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Weston Society of Humanism and Freethought - WSHF
+  url: http://www.meetup.com/Weston-Society-of-Humanism-and-Freethought/
+  membership:
+    '2013-02-03': '13'
+- !ruby/object:MeetupTracker::Group
+  name: Free thought Central
+  url: http://www.meetup.com/Free-Thought-Central/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: Missoula Area Secular Society Official Events
+  url: http://www.meetup.com/Missoula-Area-Secular-Society-Official-Events/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: Paris TN Freethinkers
+  url: http://www.meetup.com/Paris-TN-Freethinkers/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: Roswatheists
+  url: http://www.meetup.com/Roswatheists/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: San Antonio Military Freethinkers (SaMF)
+  url: http://www.meetup.com/San-Antonio-Military-Freethinkers/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: Skepticism Advocacy Group of N.C. [S.A.G.N.C.]
+  url: http://www.meetup.com/Skepticism-Advocacy-Group-of-N-C-S-A-G-N-C/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: Wise Free Thinkers and Skeptics
+  url: http://www.meetup.com/Wise-Free-Thinkers-and-Skeptics/
+  membership:
+    '2013-02-03': '12'
+- !ruby/object:MeetupTracker::Group
+  name: Atheists of Northern Indiana
+  url: http://www.meetup.com/atheists_of_north_indiana/
+  membership:
+    '2013-02-03': '11'
+- !ruby/object:MeetupTracker::Group
+  name: Cancel
+  url: http://www.meetup.com/Chicago-Secular-Jewish-Community/
+  membership:
+    '2013-02-03': '11'
+- !ruby/object:MeetupTracker::Group
+  name: Emergent Raleigh
+  url: http://www.meetup.com/emergentraleigh/
+  membership:
+    '2013-02-03': '11'
+- !ruby/object:MeetupTracker::Group
+  name: Frabulous Frog Freethinkers
+  url: http://www.meetup.com/Frabulous-Frog-Freethinkers/
+  membership:
+    '2013-02-03': '11'
+- !ruby/object:MeetupTracker::Group
+  name: San Diego Truth Project
+  url: http://www.meetup.com/San-Diego-Truth-Project/
+  membership:
+    '2013-02-03': '11'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Buddhist Reading Group -- East Carolina
+  url: http://www.meetup.com/Secular-Buddhist-Reading-Group/
+  membership:
+    '2013-02-03': '11'
+- !ruby/object:MeetupTracker::Group
+  name: Edinburgh Secular Society
+  url: http://www.meetup.com/Edinburgh-Secular-Society/
+  membership:
+    '2013-02-03': '10'
+- !ruby/object:MeetupTracker::Group
+  name: Little Brights
+  url: http://www.meetup.com/littlebrights/
+  membership:
+    '2013-02-03': '10'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Community of Bartlesville
+  url: http://www.meetup.com/Atheist-Community-of-Bartlesville/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Group 38555
+  url: http://www.meetup.com/Athiest-Group-38555/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: EX-Christian Libertarians Hiding in the Bible Belt
+  url: http://www.meetup.com/Ex-Christian-Libertarians-Hiding-in-the-Bible-Belt/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: Lancashire Secular Humanists
+  url: http://www.meetup.com/Lancashire-Secular-Humanists/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: LGBT Humanist Council San Diego
+  url: http://www.meetup.com/LGBT-Humanist-Council-San-Diego/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: SW Alabama Free Thinkers
+  url: http://www.meetup.com/SW-Alabama-Secularists/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: Yooper Skeptics
+  url: http://www.meetup.com/yooperskeptics/
+  membership:
+    '2013-02-03': '9'
+- !ruby/object:MeetupTracker::Group
+  name: Atheism in Somerset
+  url: http://www.meetup.com/Atheism-in-Somerset/
+  membership:
+    '2013-02-03': '8'
+- !ruby/object:MeetupTracker::Group
+  name: Emerging Church
+  url: http://www.meetup.com/Emerging-Church/
+  membership:
+    '2013-02-03': '8'
+- !ruby/object:MeetupTracker::Group
+  name: Hawkes Bay Skeptics in the Pub
+  url: http://www.meetup.com/hbsitp/
+  membership:
+    '2013-02-03': '8'
+- !ruby/object:MeetupTracker::Group
+  name: Tuscaloosa Secular Humanists
+  url: http://www.meetup.com/Tuscaloosa-Secular-Humanists/
+  membership:
+    '2013-02-03': '8'
+- !ruby/object:MeetupTracker::Group
+  name: Agnostic Alliance International ®
+  url: http://www.meetup.com/Agnostic-Alliance-International/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: Lee County Bright Discussionists
+  url: http://www.meetup.com/Lee-County-Bright-Discussionists/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: Missoula Area Secular Society Member Organized Events
+  url: http://www.meetup.com/Missoula-Area-Secular-Society-Member-Organized-Events/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Families of Bay County
+  url: http://www.meetup.com/Secular-Families-of-Bay-County/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Freethinkers at Eastern Michigan University
+  url: http://www.meetup.com/Secular-Freethinkers-at-Eastern-Michigan-University/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: Syracuse Freethinker Women and moms
+  url: http://www.meetup.com/Syracuse-Freethinker-Women-and-moms/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: The Greatest Bible Study in Historical Accuracy - No. Plano
+  url: http://www.meetup.com/The-Greatest-Bible-Study-in-Historical-Accuracy-No-Plano/
+  membership:
+    '2013-02-03': '7'
+- !ruby/object:MeetupTracker::Group
+  name: Being Human in Denver
+  url: http://www.meetup.com/Being-Human-in-Denver/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: Humanist Society of South Australia (HSSA)
+  url: http://www.meetup.com/Humanists-SA/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: Mid-Missouri Free Thinker's Society
+  url: http://www.meetup.com/Mid-Missouri-Free-Thinkers-Society/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: Recovering from Religion-Michiana Chapter
+  url: http://www.meetup.com/Recovering-from-Religion-Michiana-Chapter/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: Secular Families of Miami
+  url: http://www.meetup.com/Secular-Families-of-Miami/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: South Valley Skeptics
+  url: http://www.meetup.com/South-Valley-Skeptics/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: Texarkana Freethought
+  url: http://www.meetup.com/Texarkana-Freethought/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: UL SSA
+  url: http://www.meetup.com/UL-SSA/
+  membership:
+    '2013-02-03': '6'
+- !ruby/object:MeetupTracker::Group
+  name: Fond du Lac Atheists, Agnostics, and Freethinkers
+  url: http://www.meetup.com/Fond-du-Lac-Atheists-Agnostics-and-other-Freethinkers/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: Lake Charles Freethinkers
+  url: http://www.meetup.com/Lake-Charles-FreeThinkers/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: Melbourne Agnostics - Events, Discussion, & BBQ Group
+  url: http://www.meetup.com/Melbourne-Agnostics/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: Military Association of Atheist & Freethinkers Huntingdon
+  url: http://www.meetup.com/Military-Association-of-Atheist-Freethinkers-Huntingdon/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: Patrick AFB Atheists & Secular Humanists
+  url: http://www.meetup.com/Patrick-AFB-Atheists-Freethinkers/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: Skeptics in the Pub -  North
+  url: http://www.meetup.com/Skeptics-in-the-Pub-North/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: TX Hill Country Young Social Nonbelievers (NB & San Marcos)
+  url: http://www.meetup.com/TX-Hill-Country-Young-Social-Nonbelievers-NB-San-Marcos/
+  membership:
+    '2013-02-03': '5'
+- !ruby/object:MeetupTracker::Group
+  name: Atheist Scholars
+  url: http://www.meetup.com/Atheist-Scholars/
+  membership:
+    '2013-02-03': '4'
+- !ruby/object:MeetupTracker::Group
+  name: Coffs Coast Skeptics and Free Thinkers
+  url: http://www.meetup.com/Coffs-Coast-Skeptics-and-Free-Thinkers/
+  membership:
+    '2013-02-03': '4'
+- !ruby/object:MeetupTracker::Group
+  name: DC/Baltimore Area Brights
+  url: http://www.meetup.com/education-7/
+  membership:
+    '2013-02-03': '4'
+- !ruby/object:MeetupTracker::Group
+  name: Ex-Christians of York
+  url: http://www.meetup.com/Ex-Christians-of-York/
+  membership:
+    '2013-02-03': '4'
+- !ruby/object:MeetupTracker::Group
+  name: The Ethical Humanist Lyceum and Fellowship of Grand Rapids
+  url: http://www.meetup.com/The-Ethical-Humanist-Lyceum-and-Fellowship-of-Grand-Rapids/
+  membership:
+    '2013-02-03': '4'
+- !ruby/object:MeetupTracker::Group
+  name: African American Atheist, Agnostic, Secular Humanist, etc.
+  url: http://www.meetup.com/African-American-Atheist-Agnostic-Secular-Humanist-etc/
+  membership:
+    '2013-02-03': '3'
+- !ruby/object:MeetupTracker::Group
+  name: Mount Shasta Humanists
+  url: http://www.meetup.com/Mount-Shasta-Humanists/
+  membership:
+    '2013-02-03': '3'
+- !ruby/object:MeetupTracker::Group
+  name: Nonreligious In Oneonta
+  url: http://www.meetup.com/Nonreligious-In-Oneonta/
+  membership:
+    '2013-02-03': '3'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'The Greatest Story Ever Told: Mythicism(Milwaukee)'
+  url: http://www.meetup.com/The-Greatest-Story-Ever-Told-Mythicism/
+  membership:
+    '2013-02-03': '3'
+- !ruby/object:MeetupTracker::Group
+  name: Wabash Valley Freethinkers
+  url: http://www.meetup.com/Wabash-Valley-Freethinkers/
+  membership:
+    '2013-02-03': '3'
+- !ruby/object:MeetupTracker::Group
+  name: Ex-Muslims Bristol
+  url: http://www.meetup.com/Ex-Muslims-Bristol/
+  membership:
+    '2013-02-03': '2'
+- !ruby/object:MeetupTracker::Group
+  name: Freethinking Grieving Parents
+  url: http://www.meetup.com/Freethinking-Grieving-Parents/
+  membership:
+    '2013-02-03': '2'
+- !ruby/object:MeetupTracker::Group
+  name: Midwest Atheists
+  url: http://www.meetup.com/Midwest-Atheists/
+  membership:
+    '2013-02-03': '2'
+- !ruby/object:MeetupTracker::Group
+  name: Paris Freethinkers
+  url: http://www.meetup.com/Paris-Freethinkers/
+  membership:
+    '2013-02-03': '2'
+- !ruby/object:MeetupTracker::Group
+  name: Recovery from Fundamentalism -- Itasca County
+  url: http://www.meetup.com/Recovery-from-Fundamentalism-Itasca-County/
+  membership:
+    '2013-02-03': '2'
+- !ruby/object:MeetupTracker::Group
+  name: Secular progressives of Amador County
+  url: http://www.meetup.com/Secular-progressives-of-Amador-County/
+  membership:
+    '2013-02-03': '2'
+- !ruby/object:MeetupTracker::Group
+  name: 13th Floor
+  url: http://www.meetup.com/13th-Floor/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: ! 'Ateos en Laredo - Laredo Atheists: Bilingual/En Español'
+  url: http://www.meetup.com/Ateos-en-Laredo-Laredo-Atheists-Bilingual-En-Espanol/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: atheists of Victoria
+  url: http://www.meetup.com/atheists-of-victoria/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: Calhoun County Secular Society
+  url: http://www.meetup.com/Calhoun-County-Secular-Society/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: Closing Atheist and Freethinker Parents of New Mexico
+  url: http://www.meetup.com/Atheist-and-Freethinker-Parents-of-New-Mexico/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: Cumbria Humanists
+  url: http://www.meetup.com/Cumbria-Humanists/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: Southeastern Wisconsin Atheists Meetup Group
+  url: http://www.meetup.com/Southeastern-Wisconsin-Atheists-Meetup-Group/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: Spam Town Atheist Community Support
+  url: http://www.meetup.com/Spam-Town-Atheistic-Community-Support/
+  membership:
+    '2013-02-03': '1'
+- !ruby/object:MeetupTracker::Group
+  name: Colorado Springs, CO
+  url: http://atheists.meetup.com/members/us/co/colorado_springs/
+  membership:
+    '2013-02-03': '166'
+- !ruby/object:MeetupTracker::Group
+  name: Charlotte, NC
+  url: http://atheists.meetup.com/members/us/nc/charlotte/
+  membership:
+    '2013-02-03': '164'
+- !ruby/object:MeetupTracker::Group
+  name: Pittsburgh, PA
+  url: http://atheists.meetup.com/members/us/pa/pittsburgh/
+  membership:
+    '2013-02-03': '163'
+- !ruby/object:MeetupTracker::Group
+  name: Singapore, Singapore
+  url: http://atheists.meetup.com/members/sg/singapore/
+  membership:
+    '2013-02-03': '143'
+- !ruby/object:MeetupTracker::Group
+  name: Little Rock, AR
+  url: http://atheists.meetup.com/members/us/ar/little_rock/
+  membership:
+    '2013-02-03': '113'
+- !ruby/object:MeetupTracker::Group
+  name: Edmonton, AB, Canada
+  url: http://atheists.meetup.com/members/ca/ab/edmonton/
+  membership:
+    '2013-02-03': '111'
+- !ruby/object:MeetupTracker::Group
+  name: Riverside, CA
+  url: http://atheists.meetup.com/members/us/ca/riverside/
+  membership:
+    '2013-02-03': '109'
+- !ruby/object:MeetupTracker::Group
+  name: Miami, FL
+  url: http://atheists.meetup.com/members/us/fl/miami/
+  membership:
+    '2013-02-03': '103'
+- !ruby/object:MeetupTracker::Group
+  name: Montreal, QC, Canada
+  url: http://atheists.meetup.com/members/ca/qc/montreal/
+  membership:
+    '2013-02-03': '102'
+- !ruby/object:MeetupTracker::Group
+  name: Eugene, OR
+  url: http://atheists.meetup.com/members/us/or/eugene/
+  membership:
+    '2013-02-03': '90'
+- !ruby/object:MeetupTracker::Group
+  name: Madison, WI
+  url: http://atheists.meetup.com/members/us/wi/madison/
+  membership:
+    '2013-02-03': '88'
+- !ruby/object:MeetupTracker::Group
+  name: Alexandria, VA
+  url: http://atheists.meetup.com/members/us/va/alexandria/
+  membership:
+    '2013-02-03': '75'
+- !ruby/object:MeetupTracker::Group
+  name: Dublin, Ireland
+  url: http://atheists.meetup.com/members/ie/dublin/
+  membership:
+    '2013-02-03': '75'
+- !ruby/object:MeetupTracker::Group
+  name: Chattanooga, TN
+  url: http://atheists.meetup.com/members/us/tn/chattanooga/
+  membership:
+    '2013-02-03': '73'
+- !ruby/object:MeetupTracker::Group
+  name: 
+  url: 
+  membership:
+    '2013-02-03': 
